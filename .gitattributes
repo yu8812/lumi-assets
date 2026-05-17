@@ -1,0 +1,9 @@
+# Force LF line endings even on Windows — protects against any text files.
+* text=auto eol=lf
+# Audio/images are binary; never auto-convert.
+*.mp3 binary
+*.wav binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
