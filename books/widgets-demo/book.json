@@ -1,0 +1,35 @@
+{
+	"format": "lumi-book",
+	"version": 2,
+	"slug": "widgets-demo",
+	"title": "Widget 系統測試書",
+	"description": "P1 widget 系統的測試 demo:check / toc / audio / quiz / srs 全部用一遍。",
+	"kind": "markdown",
+	"category": "專業",
+	"author": "Lumi",
+	"license": "CC BY-NC-SA 4.0",
+	"widgetsSpec": 1,
+	"uses": ["audio", "quiz", "srs", "check", "toc"],
+	"chapters": [
+		{
+			"title": "1. 怎麼測 widget 系統",
+			"body": "這本書展示 5 個 widget 該怎麼用。每一章測試一個。\n\n## 目錄\n\n{toc}\n\n讀完每一章按一下「我讀完這節了」打勾,目錄會顯示 ✓。\n\n{check:read-ch1}\n"
+		},
+		{
+			"title": "2. {audio} 音檔播放",
+			"body": "把 `{audio:sample}` 放進 markdown,Lumi 自動接成一個小播放按鈕:\n\n{audio:sample}\n\n點 ▶ 試試。倍速跟著全域設定走(從 TOEIC 聽力頁帶過來)。\n\n· 載入中顯示 ◌\n· 播放中顯示 ⏸\n· 4xx / 5xx 顯示 ⚠\n· id 找不到顯示 🔇 灰色\n\n試完打勾。\n\n{check:read-ch2}\n"
+		},
+		{
+			"title": "3. {quiz} 內嵌選擇題",
+			"body": "練習小測直接寫在 markdown 裡。`{quiz:basics|count=3}` 從 quiz.json 抓題,可用 count 限題數。\n\n{quiz:basics|count=3}\n\n答題:\n· 點選項 → 確認 → 反白對錯 + 解析\n· 跳過也算一筆紀錄(不種 SRS)\n· 重新整理回來會接續(localStorage 保存)\n\n答過的題目寫進 attempt 表 namespace `book:widgets-demo:basics:<i>`。\n\n{check:read-ch3}\n"
+		},
+		{
+			"title": "4. {srs} 卡組複習(FSRS)",
+			"body": "`{srs:mini}` 開一組 SRS 卡片。Lumi 自動排程:\n\n· 第一次看 → 新卡\n· 答對 → 拉長間隔\n· 答錯 → 短間隔再來\n\n{srs:mini}\n\n按「開始複習」走 4 階段評分(Again/Hard/Good/Easy),走完當天該複習的 + 最多 5 張新卡(`new-per-day=5` opt)。\n\n寫進 srs_state 表 namespace `book:widgets-demo:srs:mini:<cardId>`。\n\n{check:read-ch4}\n"
+		},
+		{
+			"title": "5. 小結 + 故障示範",
+			"body": "5 個 widget 全測完了:\n\n1. `{toc}` — 章節目錄 + 跟 check 連動\n2. `{check}` — 章節打勾 + 跨裝置(寫 book_progress 表)\n3. `{audio}` — id → audio-map.json → CDN URL → 播\n4. `{quiz}` — quiz.json + attempt 紀錄\n5. `{srs}` — srs.json + FSRS 排程\n\n## 故障示範(刻意失敗的)\n\n找不到的 audio id:\n\n{audio:no-such-id}\n\n找不到的 quiz set:\n\n{quiz:no-such-set}\n\n找不到的 deck:\n\n{srs:no-such-deck}\n\n未知 widget:\n\n{nonsense:foo}\n\n以上應該全部顯示「找不到 / unknown」placeholder,不會炸頁。\n\n{check:read-ch5}\n"
+		}
+	]
+}

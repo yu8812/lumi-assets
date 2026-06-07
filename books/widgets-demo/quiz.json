@@ -1,0 +1,46 @@
+{
+	"format": "lumi-quiz",
+	"version": 1,
+	"bookSlug": "widgets-demo",
+	"sets": {
+		"basics": {
+			"title": "Widget 基本概念",
+			"questions": [
+				{
+					"prompt": "Lumi widget 系統的設計目標是?",
+					"options": [
+						"取代整個 TOEIC app",
+						"讓 markdown 加上少量互動,不爆炸維護成本",
+						"用 React 重寫整個前端",
+						"完全靠後端渲染"
+					],
+					"correctIndex": 1,
+					"explanationZh": "TOEIC 是 flagship 自寫 app,不會被 book 化。新書走 markdown + widget,N 本新書 0 個新元件。"
+				},
+				{
+					"prompt": "下列哪一個 widget 是用無 id 的?",
+					"options": ["{audio}", "{quiz}", "{srs}", "{toc}"],
+					"correctIndex": 3,
+					"explanationZh": "{toc} 自動從章節列表產生目錄,所以不需要 id。其他三個都要 id 指向 sibling JSON 的 key。"
+				},
+				{
+					"prompt": "Widget 寫進 attempt 表時,context 欄位是什麼?",
+					"options": ["'practice'", "'book'", "'widget'", "'lumi'"],
+					"correctIndex": 1,
+					"explanationZh": "context='book' + questionId 帶 'book:' prefix。TOEIC 計分查詢用這個 filter 排除,不會污染 stats。"
+				},
+				{
+					"prompt": "Quiz 中途離開頁面再回來會怎樣?",
+					"options": [
+						"從頭開始",
+						"自動接續(state 存 localStorage)",
+						"進度遺失要重做",
+						"顯示「找不到 quiz」錯誤"
+					],
+					"correctIndex": 1,
+					"explanationZh": "QuizWidget 把 phase / qIndex / answers 存 localStorage,onMount 自動恢復。完成或重新開始時清掉。"
+				}
+			]
+		}
+	}
+}

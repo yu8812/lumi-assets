@@ -1,0 +1,42 @@
+{
+	"format": "lumi-srs",
+	"version": 1,
+	"bookSlug": "widgets-demo",
+	"decks": {
+		"mini": {
+			"title": "5 個 widget 名字",
+			"cards": [
+				{
+					"id": "audio",
+					"front": "{audio:id}",
+					"back": "音檔播放器",
+					"hint": "id 對應 audio-map.json"
+				},
+				{
+					"id": "quiz",
+					"front": "{quiz:id}",
+					"back": "選擇題練習",
+					"hint": "id 對應 quiz.json 的 set"
+				},
+				{
+					"id": "srs",
+					"front": "{srs:id}",
+					"back": "FSRS 卡組複習",
+					"hint": "id 對應 srs.json 的 deck"
+				},
+				{
+					"id": "check",
+					"front": "{check:id}",
+					"back": "章節打勾",
+					"hint": "id 是書內唯一,寫 book_progress 表"
+				},
+				{
+					"id": "toc",
+					"front": "{toc}",
+					"back": "自動目錄",
+					"hint": "沒有 id,從章節列表生成"
+				}
+			]
+		}
+	}
+}

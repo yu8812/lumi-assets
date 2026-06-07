@@ -1,0 +1,8 @@
+{
+	"format": "lumi-audio-map",
+	"version": 1,
+	"bookSlug": "widgets-demo",
+	"audio": {
+		"sample": "media/sample.mp3"
+	}
+}
