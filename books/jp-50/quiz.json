@@ -1,0 +1,196 @@
+{
+	"format": "lumi-quiz",
+	"version": 1,
+	"bookSlug": "jp-50",
+	"sets": {
+		"hiragana": {
+			"title": "平假名綜合測驗",
+			"questions": [
+				{
+					"prompt": "「あ」的音是?",
+					"options": ["a", "i", "u", "e"],
+					"correctIndex": 0,
+					"explanationZh": "あ 是 a 行第一個,類似中文「啊」。漢字源:安"
+				},
+				{
+					"prompt": "「し」的音是?",
+					"options": ["si", "shi", "shu", "ji"],
+					"correctIndex": 1,
+					"explanationZh": "し 是 shi 不是 si — 類似中文「西」。是初學最常念錯的之一"
+				},
+				{
+					"prompt": "「つ」的音是?",
+					"options": ["tu", "chu", "tsu", "su"],
+					"correctIndex": 2,
+					"explanationZh": "つ 是 tsu,沒對應中文,類似台語「事」開頭"
+				},
+				{
+					"prompt": "「ち」的音是?",
+					"options": ["ti", "chi", "ji", "shi"],
+					"correctIndex": 1,
+					"explanationZh": "ち 是 chi,類似 cheese 開頭。不是 ti"
+				},
+				{
+					"prompt": "「ふ」的子音是?",
+					"options": ["h", "f", "p", "b"],
+					"correctIndex": 1,
+					"explanationZh": "ふ 子音是 f(像 food 開頭),不是 h。日語裡少見的 f 音"
+				},
+				{
+					"prompt": "「は」當主題助詞時念什麼?",
+					"options": ["ha", "wa", "pa", "ba"],
+					"correctIndex": 1,
+					"explanationZh": "助詞時念 wa(例:私は学生です → watashi wa ...)。其他情況才念 ha"
+				},
+				{
+					"prompt": "「を」99% 場合念什麼?",
+					"options": ["wo", "o", "u", "ho"],
+					"correctIndex": 1,
+					"explanationZh": "寫成 wo,但 99% 場合念 o。只當受詞助詞用(例:水を飲む)"
+				},
+				{
+					"prompt": "「ん」後面接 b/m/p 時念什麼音?",
+					"options": ["n", "m", "ng", "v"],
+					"correctIndex": 1,
+					"explanationZh": "ん 順著嘴形變音。接 b/m/p → m;接 k/g → ng;其他 → n"
+				},
+				{
+					"prompt": "「の」最常被拿來代替中文哪個字?",
+					"options": ["了", "的", "在", "也"],
+					"correctIndex": 1,
+					"explanationZh": "の 代替中文「的」,所以台灣招牌 / 店名超常見。例:「無印良品の店」"
+				},
+				{
+					"prompt": "下列哪個假名沒有 y 行?",
+					"options": ["や", "yi", "ゆ", "よ"],
+					"correctIndex": 1,
+					"explanationZh": "現代日語 y 行只剩 や/ゆ/よ 三個。yi/ye 歷史上合併到 い/え"
+				},
+				{
+					"prompt": "「ら」的 r 音類似下列哪一個?",
+					"options": ["英文標準 r", "英文標準 l", "介於英文 r 跟 l", "中文「拉」"],
+					"correctIndex": 2,
+					"explanationZh": "日語 r 舌頭輕點上顎,介於英文 r 跟 l。類似台語「啦哩嚕勒囉」但更輕"
+				}
+			]
+		},
+		"katakana": {
+			"title": "片假名綜合測驗",
+			"questions": [
+				{
+					"prompt": "「コーヒー」是什麼?",
+					"options": ["可樂", "咖啡", "可可", "茶"],
+					"correctIndex": 1,
+					"explanationZh": "ko-hi: = coffee。「ー」是長音符號,只用在片假名"
+				},
+				{
+					"prompt": "「シ」跟「ツ」差別在哪?",
+					"options": ["筆畫數不同", "點往上掃 vs 點往下掃", "顏色", "大小"],
+					"correctIndex": 1,
+					"explanationZh": "シ(shi)兩點往上掃,ツ(tsu)兩點往下掃。初學最容易混"
+				},
+				{
+					"prompt": "「ン」跟「ソ」差別?",
+					"options": ["方向", "大小", "顏色", "完全沒差"],
+					"correctIndex": 0,
+					"explanationZh": "ン(n)跟 ソ(so)都兩點一豎,只差方向。多看幾次自然分得清"
+				},
+				{
+					"prompt": "「テレビ」是什麼?",
+					"options": ["電話", "電視", "電腦", "電池"],
+					"correctIndex": 1,
+					"explanationZh": "te-re-bi = television(英文 TV 的長音)"
+				},
+				{
+					"prompt": "片假名長音用什麼符號?",
+					"options": ["—(橫線 ー)", "·", "/", "重複字母"],
+					"correctIndex": 0,
+					"explanationZh": "片假名用「ー」表長音。平假名是用 う / お 接續(例:おう)"
+				},
+				{
+					"prompt": "「タクシー」是什麼?",
+					"options": ["停車場", "計程車", "塔位", "電車"],
+					"correctIndex": 1,
+					"explanationZh": "taku-shi: = taxi(末尾「ー」長音)"
+				},
+				{
+					"prompt": "「ホテル」是什麼?",
+					"options": ["旅館 hotel", "壺", "火車", "火爐"],
+					"correctIndex": 0,
+					"explanationZh": "ho-te-ru = hotel。3 個假名拼一個外來語"
+				},
+				{
+					"prompt": "下列哪個是片假名「ku」?",
+					"options": ["ワ", "ク", "ル", "ハ"],
+					"correctIndex": 1,
+					"explanationZh": "ク 是 ku。ワ 是 wa(多一豎),ル 是 ru,ハ 是 ha"
+				}
+			]
+		},
+		"final": {
+			"title": "假名混合期末測驗",
+			"questions": [
+				{
+					"prompt": "「ありがとう」是什麼意思?",
+					"options": ["你好", "謝謝", "再見", "對不起"],
+					"correctIndex": 1,
+					"explanationZh": "arigatou — 謝謝。5 個平假名"
+				},
+				{
+					"prompt": "「すみません」是什麼意思?",
+					"options": ["晚安", "對不起 / 不好意思", "請坐", "你叫什麼"],
+					"correctIndex": 1,
+					"explanationZh": "sumimasen — 對不起 / 不好意思 / 借過(多用途)"
+				},
+				{
+					"prompt": "「こんにちは」唸什麼?",
+					"options": ["konnichi-wa", "konnichi-ha", "konnichi-ba", "ko-niichi-wa"],
+					"correctIndex": 0,
+					"explanationZh": "は 在這裡是主題助詞,所以唸 wa 不是 ha。意思是「午安」"
+				},
+				{
+					"prompt": "「きょう」(今日)是什麼意思?",
+					"options": ["明天", "昨天", "今天", "上週"],
+					"correctIndex": 2,
+					"explanationZh": "きょう = kyou(拗音!きょ + う),意思「今天」"
+				},
+				{
+					"prompt": "「コンビニ」是什麼意思?",
+					"options": ["便利商店", "計程車", "公司", "酒吧"],
+					"correctIndex": 0,
+					"explanationZh": "konbini = convenience store 的縮寫,日本超商統稱"
+				},
+				{
+					"prompt": "「ちょっと」是什麼意思?",
+					"options": ["很多", "一下 / 一點點", "停止", "為什麼"],
+					"correctIndex": 1,
+					"explanationZh": "chotto — 一下 / 一點點。日常超常用,還可以委婉拒絕(例:ちょっと…)"
+				},
+				{
+					"prompt": "下列哪個字組是拗音?",
+					"options": ["きや", "きゃ", "ちょっと裡的 ち", "あい"],
+					"correctIndex": 1,
+					"explanationZh": "きゃ(小寫 ゃ)= kya 一個音節。きや(大寫 や)= ki + ya 兩個音節"
+				},
+				{
+					"prompt": "「アイス」(片假名)是什麼?",
+					"options": ["米", "冰", "蛋糕", "茶"],
+					"correctIndex": 1,
+					"explanationZh": "a-i-su = ice。片假名常見外來語"
+				},
+				{
+					"prompt": "下列哪個 SRS 評分代表「忘了 / 答錯」?",
+					"options": ["Again", "Hard", "Good", "Easy"],
+					"correctIndex": 0,
+					"explanationZh": "Again — 短間隔再來。Hard/Good/Easy 都算答對,只差「多熟」"
+				},
+				{
+					"prompt": "學完 50 音之後接下來建議學什麼?",
+					"options": ["N1 漢字 2000", "N5 文法核心", "成人會話", "敬語"],
+					"correctIndex": 1,
+					"explanationZh": "50 音是門檻。下一步走 N5 文法 + 基本詞彙,接著看簡單動漫"
+				}
+			]
+		}
+	}
+}
