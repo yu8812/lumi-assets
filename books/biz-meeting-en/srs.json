@@ -1,0 +1,342 @@
+{
+	"format": "lumi-srs",
+	"version": 1,
+	"bookSlug": "biz-meeting-en",
+	"decks": {
+		"opening": {
+			"title": "開場 / 小聊暖場 7 句",
+			"cards": [
+				{
+					"id": "o1",
+					"front": "Thanks everyone for joining. Let's get started.",
+					"back": "感謝大家加入。我們開始吧。(會議開場標準)",
+					"hint": "get started 比 begin 口語"
+				},
+				{
+					"id": "o2",
+					"front": "The agenda for today is [topic 1], [topic 2], and [topic 3].",
+					"back": "今天的議程是 [1]、[2] 和 [3]。",
+					"hint": "永遠先說議程"
+				},
+				{
+					"id": "o3",
+					"front": "How's the weather over there?",
+					"back": "你那邊天氣怎麼樣?(跨時區會議小聊)",
+					"hint": "最安全 small talk;避政治 / 宗教 / 收入"
+				},
+				{
+					"id": "o4",
+					"front": "How are things on your end?",
+					"back": "你那邊狀況如何?(small talk)",
+					"hint": "on your end = 你那邊,商務口語"
+				},
+				{
+					"id": "o5",
+					"front": "Alright, shall we dive into [topic]?",
+					"back": "好,我們進入 [主題] 吧?(從 small talk 切換)",
+					"hint": "dive into = 切換訊號,「閒聊夠了進主題」"
+				},
+				{
+					"id": "o6",
+					"front": "Before we start, does everyone have the materials I sent?",
+					"back": "開始前,大家都有我寄的資料嗎?",
+					"hint": "確認對方狀態比直接開講安全"
+				},
+				{
+					"id": "o7",
+					"front": "Sorry I'm a bit late — I had a conflict.",
+					"back": "抱歉我遲到一下 — 我有事撞期。",
+					"hint": "conflict = 行程衝突(會議用語)"
+				}
+			]
+		},
+		"suggesting": {
+			"title": "提議與意見 7 句",
+			"cards": [
+				{
+					"id": "s1",
+					"front": "I'd like to suggest [proposal].",
+					"back": "我想提議 [方案]。",
+					"hint": "模板級;比 Let's do X 客氣"
+				},
+				{
+					"id": "s2",
+					"front": "What if we [verb] ...?",
+					"back": "如果我們 [動作] 會怎麼樣?(試探起手)",
+					"hint": "疑問句不會被批駁;會議高頻技巧"
+				},
+				{
+					"id": "s3",
+					"front": "In my view, [statement].",
+					"back": "依我看,[論點]。(確定意見)",
+					"hint": "view 比 opinion 在會議更正式"
+				},
+				{
+					"id": "s4",
+					"front": "I'd lean toward [option A] rather than [option B].",
+					"back": "我會偏向 [A] 而不是 [B]。(緩和意見)",
+					"hint": "lean toward = 比較傾向,給對方空間反駁"
+				},
+				{
+					"id": "s5",
+					"front": "Building on what [Name] said, ...",
+					"back": "延續 [某人] 剛說的,...",
+					"hint": "Building on = 在這基礎上,團隊合作感"
+				},
+				{
+					"id": "s6",
+					"front": "I would strongly recommend [option].",
+					"back": "我強烈推薦 [選項]。(高份量提案)",
+					"hint": "比 strongly suggest 在商務更有份量"
+				},
+				{
+					"id": "s7",
+					"front": "Based on the data, [conclusion].",
+					"back": "根據數據,[結論]。",
+					"hint": "英文最有力的開頭之一;反對你的人也要拿數據反"
+				}
+			]
+		},
+		"agreeing": {
+			"title": "同意與委婉反對 7 句",
+			"cards": [
+				{
+					"id": "a1",
+					"front": "I'm fully on board with that.",
+					"back": "我完全同意。(完全同意)",
+					"hint": "on board = 上船 / 加入,商務用語"
+				},
+				{
+					"id": "a2",
+					"front": "I agree with the general direction, but I'd push back on [point].",
+					"back": "大方向我同意,但 [某點] 我會反對。(部分同意)",
+					"hint": "push back on = 反推;先同意再反對特定點"
+				},
+				{
+					"id": "a3",
+					"front": "I see your point, but have we considered [alternative]?",
+					"back": "我懂你的意思,但我們有考慮過 [替代] 嗎?(委婉反對)",
+					"hint": "I see your point ≠ I agree;給對方台階"
+				},
+				{
+					"id": "a4",
+					"front": "I'd respectfully disagree.",
+					"back": "我會恭敬地不同意。(中等反對)",
+					"hint": "給上司 / 客戶用的正式禮貌反對"
+				},
+				{
+					"id": "a5",
+					"front": "One concern I have is [issue].",
+					"back": "我有一個顧慮是 [問題]。(提風險)",
+					"hint": "中性表達不同意,不會吵架"
+				},
+				{
+					"id": "a6",
+					"front": "Let's not [verb] just yet — let me look into [alternative] first.",
+					"back": "先不要 [動作] — 讓我先研究 [替代]。",
+					"hint": "just yet = 暫時還不,保留未來可能"
+				},
+				{
+					"id": "a7",
+					"front": "I don't think that's the right path for us.",
+					"back": "我不認為那是適合我們的方向。(強烈反對)",
+					"hint": "Not the right path 比 That's wrong 軟,但意思一樣強"
+				}
+			]
+		},
+		"clarifying": {
+			"title": "釐清與追問 6 句",
+			"cards": [
+				{
+					"id": "c1",
+					"front": "Could you repeat that, please?",
+					"back": "可以請你再說一次嗎?(基本款)",
+					"hint": "1 場會議最多用 1-2 次,多了顯跟不上"
+				},
+				{
+					"id": "c2",
+					"front": "Sorry, could you clarify what you mean by [term]?",
+					"back": "不好意思,你說的 [詞] 是什麼意思?",
+					"hint": "顯示你大致懂,只是確認某詞 — 比 I don't understand 顯專業"
+				},
+				{
+					"id": "c3",
+					"front": "Let me see if I understand correctly — you're saying [your understanding]?",
+					"back": "我看我有沒有理解對 — 你的意思是 [我的理解]?",
+					"hint": "金句!顯示你有聽 + 想對齊;會議專家常用"
+				},
+				{
+					"id": "c4",
+					"front": "Could we slow down for a moment?",
+					"back": "我們可以慢一點嗎?",
+					"hint": "we 而不是 you;把責任變共同的"
+				},
+				{
+					"id": "c5",
+					"front": "Could you elaborate on [specific point]?",
+					"back": "你能多說一點關於 [某點] 嗎?",
+					"hint": "elaborate on = 細說;顯示有興趣"
+				},
+				{
+					"id": "c6",
+					"front": "So just to confirm, the next step is [action]?",
+					"back": "那我確認一下,下一步是 [動作]?",
+					"hint": "Just to confirm = 整理共識,避免散會各自記不同"
+				}
+			]
+		},
+		"presentation": {
+			"title": "簡報句型 8 句",
+			"cards": [
+				{
+					"id": "p1",
+					"front": "Today I'll walk you through [topic].",
+					"back": "今天我會帶你看過 [主題]。(簡報開場)",
+					"hint": "walk you through = 帶你走過;比 explain 溫暖"
+				},
+				{
+					"id": "p2",
+					"front": "I have three main points to cover.",
+					"back": "我有三個主要重點要講。",
+					"hint": "永遠先說多少點,給觀眾 mental map"
+				},
+				{
+					"id": "p3",
+					"front": "Let's start with [first point].",
+					"back": "讓我們從 [第一點] 開始。",
+					"hint": "簡報開頭過渡"
+				},
+				{
+					"id": "p4",
+					"front": "Moving on to [next point], ...",
+					"back": "接著到 [下一點],...",
+					"hint": "最標準轉場詞"
+				},
+				{
+					"id": "p5",
+					"front": "The key takeaway here is [insight].",
+					"back": "這裡的重點是 [洞察]。",
+					"hint": "key takeaway = 觀眾會記筆記的黃金句"
+				},
+				{
+					"id": "p6",
+					"front": "As you can see from the chart, [insight].",
+					"back": "從圖表你可以看到,[洞察]。",
+					"hint": "引導觀眾看視覺資料的固定句"
+				},
+				{
+					"id": "p7",
+					"front": "To summarize, we've covered [point 1], [point 2], and [point 3].",
+					"back": "總結,我們講了 [1]、[2] 和 [3]。",
+					"hint": "結尾標配"
+				},
+				{
+					"id": "p8",
+					"front": "The next step is [action], and I'd love your support on this.",
+					"back": "下一步是 [行動],我希望能得到大家的支持。(CTA)",
+					"hint": "I'd love your support 比 Please support 軟而有效"
+				}
+			]
+		},
+		"interruption": {
+			"title": "處理打斷 / 控場 7 句",
+			"cards": [
+				{
+					"id": "i1",
+					"front": "Sorry to interrupt — could I add a quick thought?",
+					"back": "抱歉打斷 — 我可以加一個快速想法嗎?(禮貌打斷)",
+					"hint": "Sorry to interrupt 是必備緩衝"
+				},
+				{
+					"id": "i2",
+					"front": "Let me finish this thought, then I'll come back to you.",
+					"back": "讓我把這想法講完,我會回到你的問題。",
+					"hint": "金句!既擋下又承諾不忽視對方"
+				},
+				{
+					"id": "i3",
+					"front": "Hold that thought for a moment.",
+					"back": "那想法先記住。",
+					"hint": "Hold that thought 禮貌但堅定"
+				},
+				{
+					"id": "i4",
+					"front": "[Name], what's your take on this?",
+					"back": "[某人],你的看法是?(引導發言權)",
+					"hint": "what's your take 比 what do you think 更口語"
+				},
+				{
+					"id": "i5",
+					"front": "Let's circle back to the main topic.",
+					"back": "我們繞回主題吧。",
+					"hint": "circle back to = 繞回,比 back to the topic 更專業"
+				},
+				{
+					"id": "i6",
+					"front": "We're running short on time. Let's prioritize [topic].",
+					"back": "時間不夠了。我們優先處理 [主題]。",
+					"hint": "running short on time = 時間越來越緊"
+				},
+				{
+					"id": "i7",
+					"front": "Let's table this for next meeting.",
+					"back": "這事項先擱到下次會議。",
+					"hint": "美式 table = 暫緩 / 移後(英式相反!跨國會議用美式)"
+				}
+			]
+		},
+		"closing": {
+			"title": "結束會議 / 行動項 8 句",
+			"cards": [
+				{
+					"id": "cl1",
+					"front": "In the interest of time, let's wrap up.",
+					"back": "考慮時間,我們收尾吧。",
+					"hint": "In the interest of time 比 time's up 專業"
+				},
+				{
+					"id": "cl2",
+					"front": "To recap, we've agreed on [decisions].",
+					"back": "總結,我們達成 [決定]。",
+					"hint": "recap 比 summarize 在會議結尾更自然"
+				},
+				{
+					"id": "cl3",
+					"front": "Action items: [Name] will [task] by [deadline].",
+					"back": "行動項:[某人] 將在 [截止日] 前 [任務]。",
+					"hint": "標配:具體到誰 / 做什麼 / 何時"
+				},
+				{
+					"id": "cl4",
+					"front": "Any final questions or comments?",
+					"back": "還有最後的問題或評論嗎?",
+					"hint": "final 暗示「就快結束了」"
+				},
+				{
+					"id": "cl5",
+					"front": "I'll send out the minutes by EOD.",
+					"back": "我會在今天結束前寄出會議紀錄。",
+					"hint": "EOD = end of day;EOW = end of week"
+				},
+				{
+					"id": "cl6",
+					"front": "Thanks everyone for your time. Have a great rest of the day.",
+					"back": "感謝大家的時間。祝大家有美好的下半天。",
+					"hint": "美式商務友善結尾"
+				},
+				{
+					"id": "cl7",
+					"front": "Let's reconvene next week to follow up.",
+					"back": "我們下週重開會跟進。",
+					"hint": "reconvene = 重新召集,正式但口語也通"
+				},
+				{
+					"id": "cl8",
+					"front": "Cool, let's call it.",
+					"back": "好,就到這。(隨意收尾)",
+					"hint": "美式內部會議超口語;給上司用會太隨意"
+				}
+			]
+		}
+	}
+}

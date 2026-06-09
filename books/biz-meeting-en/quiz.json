@@ -1,0 +1,314 @@
+{
+	"format": "lumi-quiz",
+	"version": 1,
+	"bookSlug": "biz-meeting-en",
+	"sets": {
+		"milestone1": {
+			"title": "情境選句(章 1-4 — 開場 / 提議 / 同意反對)",
+			"questions": [
+				{
+					"prompt": "你主持會議,開場最自然?",
+					"options": [
+						"Let's begin.",
+						"OK start now.",
+						"Thanks everyone for joining. Let's get started.",
+						"Time's up, go."
+					],
+					"correctIndex": 2,
+					"explanationZh": "Thanks everyone for joining 是會議主持標配;get started 比 begin 口語自然。"
+				},
+				{
+					"prompt": "跨時區會議開場小聊,最安全?",
+					"options": [
+						"How's politics in your country?",
+						"How's the weather over there?",
+						"Are you single?",
+						"Why are you up so early?"
+					],
+					"correctIndex": 1,
+					"explanationZh": "天氣最安全;避政治 / 宗教 / 個人收入 / 私生活。"
+				},
+				{
+					"prompt": "從 small talk 切換進主題,合適的訊號?",
+					"options": [
+						"OK stop talking.",
+						"Anyway.",
+						"Alright, shall we dive into the proposal?",
+						"Let's just start."
+					],
+					"correctIndex": 2,
+					"explanationZh": "dive into 是切換訊號;Alright 軟過渡讓對方知道進主題了。"
+				},
+				{
+					"prompt": "試探性提議,最不會被批駁?",
+					"options": [
+						"We should do X.",
+						"What if we tried a different approach?",
+						"X is wrong.",
+						"Do this now."
+					],
+					"correctIndex": 1,
+					"explanationZh": "What if 是疑問句,不會被批駁;會議高頻試探技巧。"
+				},
+				{
+					"prompt": "想委婉表達「我比較傾向 A 不是 B」?",
+					"options": [
+						"A is right, B is wrong.",
+						"I'd lean toward A rather than B.",
+						"B is bad.",
+						"Forget B."
+					],
+					"correctIndex": 1,
+					"explanationZh": "lean toward = 比較傾向,給對方反駁空間。"
+				},
+				{
+					"prompt": "想表達「完全同意」最商務感?",
+					"options": [
+						"Yeah cool.",
+						"OK fine.",
+						"I'm fully on board with that.",
+						"Sure thing."
+					],
+					"correctIndex": 2,
+					"explanationZh": "on board 是商務「上船 / 加入」用語,fully = 完全。"
+				},
+				{
+					"prompt": "想委婉反對(softest)?",
+					"options": [
+						"You're wrong.",
+						"I see your point, but have we considered an alternative?",
+						"No.",
+						"I disagree completely."
+					],
+					"correctIndex": 1,
+					"explanationZh": "I see your point ≠ I agree;給對方台階,用疑問句帶反對。"
+				},
+				{
+					"prompt": "提風險點不吵架的句型?",
+					"options": [
+						"This is bad.",
+						"You're missing something.",
+						"One concern I have is the timeline.",
+						"This won't work."
+					],
+					"correctIndex": 2,
+					"explanationZh": "One concern I have 是中性表達不同意;不會被解讀為攻擊。"
+				},
+				{
+					"prompt": "想延續別人的點,顯團隊合作感?",
+					"options": [
+						"As I was saying ...",
+						"Anyway, my point is ...",
+						"Building on what Sarah said, ...",
+						"Ignore that, let me tell you ..."
+					],
+					"correctIndex": 2,
+					"explanationZh": "Building on what [Name] said = 在這基礎上,顯團隊合作而不是搶話。"
+				},
+				{
+					"prompt": "「Based on the data, ...」這句的功能?",
+					"options": [
+						"自貶開場",
+						"立刻表明你不憑感覺,反對方要拿數據反",
+						"客套寒暄",
+						"道歉"
+					],
+					"correctIndex": 1,
+					"explanationZh": "Based on the data 是英文最有力的開頭之一,把對話拉到事實層次。"
+				},
+				{
+					"prompt": "I think maybe perhaps ... 是哪種問題?",
+					"options": [
+						"完全沒問題",
+						"超專業",
+						"疊三層緩和語 = 聽起來沒自信",
+						"中文邏輯不通"
+					],
+					"correctIndex": 2,
+					"explanationZh": "1 層緩和 + 明確建議 = 剛好強度;多層緩和會反效果。"
+				},
+				{
+					"prompt": "想中等強度反對上司?",
+					"options": [
+						"No way.",
+						"I'd respectfully disagree.",
+						"Yes sir!",
+						"Whatever you say."
+					],
+					"correctIndex": 1,
+					"explanationZh": "respectfully disagree 是英文反對的正式禮貌版,適合給上司 / 客戶。"
+				}
+			]
+		},
+		"final": {
+			"title": "全書 50 句綜合驗收",
+			"questions": [
+				{
+					"prompt": "沒聽懂某個術語,最聰明的問法?",
+					"options": [
+						"I don't understand.",
+						"What?",
+						"Sorry, could you clarify what you mean by EBITDA?",
+						"Pardon?"
+					],
+					"correctIndex": 2,
+					"explanationZh": "Could you clarify what you mean by [X] 顯示你大致懂,只是確認某詞,比 I don't understand 顯專業。"
+				},
+				{
+					"prompt": "想確認自己理解對的金句?",
+					"options": [
+						"Right.",
+						"OK got it.",
+						"Let me see if I understand correctly — you're saying we should postpone?",
+						"Sure thing."
+					],
+					"correctIndex": 2,
+					"explanationZh": "Let me see if I understand correctly 是會議專家常用,顯示你有聽 + 想對齊。"
+				},
+				{
+					"prompt": "簡報開場最溫暖?",
+					"options": [
+						"I will explain.",
+						"Listen up.",
+						"Today I'll walk you through our Q2 results.",
+						"Here's the deal."
+					],
+					"correctIndex": 2,
+					"explanationZh": "walk you through = 帶你走過,比 explain 溫暖,簡報開場高頻。"
+				},
+				{
+					"prompt": "簡報想強調重點,觀眾會記筆記?",
+					"options": [
+						"This is important.",
+						"You should remember this.",
+						"The key takeaway here is that customer churn dropped 15%.",
+						"Note this down."
+					],
+					"correctIndex": 2,
+					"explanationZh": "key takeaway 是簡報黃金句,觀眾聽到會記筆記。"
+				},
+				{
+					"prompt": "簡報結尾 CTA,最有效?",
+					"options": [
+						"Please support us.",
+						"You must approve.",
+						"The next step is launching pilot, and I'd love your support on this.",
+						"OK that's all."
+					],
+					"correctIndex": 2,
+					"explanationZh": "I'd love your support 比 Please support 軟而有效;搭明確 next step。"
+				},
+				{
+					"prompt": "想禮貌打斷別人?",
+					"options": [
+						"Stop, I want to talk.",
+						"Hey hey hey.",
+						"Sorry to interrupt — could I add a quick thought?",
+						"Excuse me!"
+					],
+					"correctIndex": 2,
+					"explanationZh": "Sorry to interrupt 是模板級緩衝句。"
+				},
+				{
+					"prompt": "想擋下別人的打斷,又承諾回頭(金句)?",
+					"options": [
+						"Shut up.",
+						"Wait.",
+						"Let me finish this thought, then I'll come back to you.",
+						"Stop interrupting me."
+					],
+					"correctIndex": 2,
+					"explanationZh": "金句!既擋下又承諾不忽視對方,健康會議的核心句型。"
+				},
+				{
+					"prompt": "會議跑題了想拉回來?",
+					"options": [
+						"You're off topic.",
+						"Stop talking about that.",
+						"Let's circle back to the main topic.",
+						"Focus everyone!"
+					],
+					"correctIndex": 2,
+					"explanationZh": "circle back to 是商務用語,比 back to the topic 專業。"
+				},
+				{
+					"prompt": "想把事項移到下次會議?(美式商務)",
+					"options": [
+						"Skip this.",
+						"Forget it.",
+						"Let's table this for next meeting.",
+						"Cancel this topic."
+					],
+					"correctIndex": 2,
+					"explanationZh": "美式 table = 暫緩 / 移後(英式相反!跨國會議用美式)。"
+				},
+				{
+					"prompt": "想預告會議快結束?",
+					"options": [
+						"Time is up.",
+						"Stop.",
+						"In the interest of time, let's wrap up.",
+						"We need to go."
+					],
+					"correctIndex": 2,
+					"explanationZh": "In the interest of time 比 time's up 專業;wrap up = 收尾。"
+				},
+				{
+					"prompt": "結尾整理共識,最自然?",
+					"options": [
+						"To repeat ...",
+						"To say again ...",
+						"To recap, we've agreed on the new pricing model.",
+						"As I just said ..."
+					],
+					"correctIndex": 2,
+					"explanationZh": "recap 比 summarize 在會議結尾更口語自然;recap 是 recapitulation 的縮寫。"
+				},
+				{
+					"prompt": "「Action items: Mary will deliver by Friday.」的功能?",
+					"options": [
+						"客套",
+						"閒聊",
+						"具體到誰 / 做什麼 / 何時 的會議結尾標配",
+						"道歉"
+					],
+					"correctIndex": 2,
+					"explanationZh": "Action items 是會議結尾標配;明確 owner + task + deadline 才不會散會後沒人做。"
+				},
+				{
+					"prompt": "EOD 是什麼?",
+					"options": [
+						"End of October Day",
+						"End of Day(今天結束前)",
+						"Email of Day",
+						"End of Deal"
+					],
+					"correctIndex": 1,
+					"explanationZh": "EOD = end of day;EOW = end of week。商務簡寫。"
+				},
+				{
+					"prompt": "美式內部會議超口語收尾?",
+					"options": [
+						"That's all folks.",
+						"Goodbye now.",
+						"Cool, let's call it.",
+						"OK we're done here."
+					],
+					"correctIndex": 2,
+					"explanationZh": "call it = 就此打住,美式內部超口語;給上司用會太隨意。"
+				},
+				{
+					"prompt": "想引導發言權給某人?",
+					"options": [
+						"Speak up Bob.",
+						"What about you, Bob?",
+						"Bob, what's your take on this?",
+						"Bob, talk."
+					],
+					"correctIndex": 2,
+					"explanationZh": "what's your take 比 what do you think 更口語商務;直接喊名字 + take 上比較得體。"
+				}
+			]
+		}
+	}
+}

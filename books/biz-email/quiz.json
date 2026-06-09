@@ -1,0 +1,309 @@
+{
+	"format": "lumi-quiz",
+	"version": 1,
+	"bookSlug": "biz-email",
+	"sets": {
+		"milestone1": {
+			"title": "情境選句(章 1-4 — 開頭 / 通知 / 請求)",
+			"questions": [
+				{
+					"prompt": "你寫信給不熟的窗口要詢問價格,最佳開頭?",
+					"options": [
+						"Hey, give me your prices.",
+						"To whom it may concern, prices please.",
+						"Dear [Name], I am writing to inquire about your pricing.",
+						"Hi! What's the price?"
+					],
+					"correctIndex": 2,
+					"explanationZh": "正式詢問用 Dear [Name] + I am writing to inquire about。Hey / To whom it may concern 都是雷區。"
+				},
+				{
+					"prompt": "你想委婉催客戶 3 天內回覆,選句?",
+					"options": [
+						"Send the report ASAP!",
+						"You should respond now.",
+						"I would appreciate it if you could respond by Friday.",
+						"Reply immediately."
+					],
+					"correctIndex": 2,
+					"explanationZh": "I would appreciate it if you could 是英文軟催魔法句;客戶 / 老闆讀了不反感。ASAP / should / immediately 都太硬。"
+				},
+				{
+					"prompt": "你想通知客戶系統會延遲上線,最佳開場?",
+					"options": [
+						"Sorry, system is broken.",
+						"Please be advised that there will be a delay in the launch.",
+						"System won't be ready. Deal with it.",
+						"FYI: late."
+					],
+					"correctIndex": 1,
+					"explanationZh": "Please be advised 是商務專用,既嚴肅又不慌張。比 sorry 早一步、比 inform 高一階。"
+				},
+				{
+					"prompt": "對方寄信後 3 天才回信,合適的道歉?",
+					"options": [
+						"Sorry I forgot.",
+						"My bad.",
+						"Apologies for the delayed response.",
+						"It was your fault for emailing late."
+					],
+					"correctIndex": 2,
+					"explanationZh": "Apologies for the delayed response 是 24 小時內沒回信的標配開場,正式又禮貌。"
+				},
+				{
+					"prompt": "你想客氣請對方提供業務資料?",
+					"options": [
+						"Give me the data.",
+						"Could you provide me with the latest sales figures?",
+						"I want the numbers now.",
+						"Send the data ASAP."
+					],
+					"correctIndex": 1,
+					"explanationZh": "provide me with 比 give me 正式;合約 / 業務資料都用 provide。"
+				},
+				{
+					"prompt": "提醒客戶 deadline 將至,最佳句型?",
+					"options": [
+						"You must submit by Friday.",
+						"Don't forget the deadline!",
+						"This is a friendly reminder that the submission deadline is approaching.",
+						"Hurry up."
+					],
+					"correctIndex": 2,
+					"explanationZh": "friendly reminder = 催但不兇,英文 Email 高頻片語。"
+				},
+				{
+					"prompt": "通知人事異動「下月起 Mary 接手客服」?",
+					"options": [
+						"Mary takes over from next month.",
+						"As of next month, Mary will be taking over customer service.",
+						"Mary is the new customer service.",
+						"Customer service has Mary now."
+					],
+					"correctIndex": 1,
+					"explanationZh": "As of [date] ... will be taking over [role] 是正式人事公告句型。"
+				},
+				{
+					"prompt": "你不確定對方是否能幫忙,最委婉的請求?",
+					"options": [
+						"Can you do it?",
+						"Would it be possible to extend the deadline by one week?",
+						"You need to extend the deadline.",
+						"Extend it."
+					],
+					"correctIndex": 1,
+					"explanationZh": "Would it be possible to 隱含「我知道可能麻煩」,適合請對方額外付出 / 對上級用。"
+				},
+				{
+					"prompt": "「我希望這封信你收到時一切都好」對應哪句?",
+					"options": [
+						"How are you?",
+						"I hope this email finds you well.",
+						"Hope you're alive.",
+						"Are you ok?"
+					],
+					"correctIndex": 1,
+					"explanationZh": "I hope this email finds you well 是模板級高頻開頭,跨文化通用,歐美客戶特別愛。"
+				},
+				{
+					"prompt": "「at your earliest convenience」的真實含義?",
+					"options": [
+						"沒在催,真的不急",
+						"明天前",
+						"盡早,但給對方面子",
+						"立刻馬上"
+					],
+					"correctIndex": 2,
+					"explanationZh": "at your earliest convenience 是商務套路:看似客氣,實際是「盡早」。對方一般 1-2 天內會回。"
+				},
+				{
+					"prompt": "「inquire」跟「ask」哪個更適合商務?",
+					"options": [
+						"ask 永遠對",
+						"inquire 較正式書面",
+						"完全一樣",
+						"inquire 是錯字"
+					],
+					"correctIndex": 1,
+					"explanationZh": "inquire 較正式,商務書面適合;ask 偏口語 / 隨意。"
+				},
+				{
+					"prompt": "客戶 Email 第一句結束,要請求服務 — 哪個轉折最自然?",
+					"options": [
+						"I want.",
+						"You should.",
+						"I would appreciate it if you could ...",
+						"Give me."
+					],
+					"correctIndex": 2,
+					"explanationZh": "I would appreciate it if you could ... 是英文 Email 從問候平滑接到請求最常用的轉折。"
+				}
+			]
+		},
+		"final": {
+			"title": "全書 50 句綜合驗收",
+			"questions": [
+				{
+					"prompt": "最常用的商務 Email 結尾?",
+					"options": ["Sincerely yours,", "XOXO,", "Best regards,", "Love,"],
+					"correctIndex": 2,
+					"explanationZh": "Best regards 是最通用;Sincerely 偏履歷 / 求職用,XOXO 跟 Love 是私人信。"
+				},
+				{
+					"prompt": "「沒事不用回,有問題再找我」最佳句型?",
+					"options": [
+						"Don't bother me.",
+						"Please do not hesitate to reach out if you have any questions.",
+						"Email me if you must.",
+						"Ignore this if okay."
+					],
+					"correctIndex": 1,
+					"explanationZh": "Please do not hesitate to reach out 是模板級客戶服務句。"
+				},
+				{
+					"prompt": "你想開會,最有效率的問法?",
+					"options": [
+						"When are you free?",
+						"Got time to chat?",
+						"Are you available on Monday at 2pm or Tuesday at 10am?",
+						"Let's meet."
+					],
+					"correctIndex": 2,
+					"explanationZh": "永遠提供 2-3 個具體時段,別問開放式「什麼時候有空」(對方要花腦力選)。"
+				},
+				{
+					"prompt": "「附議程與預習資料」?",
+					"options": [
+						"Agenda below.",
+						"Please find the agenda and pre-read materials attached.",
+						"Look at my attachment.",
+						"Read materials before meeting."
+					],
+					"correctIndex": 1,
+					"explanationZh": "Please find ... attached 是商務 Email 附件標準句。pre-read materials = 預習資料。"
+				},
+				{
+					"prompt": "重大失誤後,合適的開頭道歉?",
+					"options": [
+						"Oops!",
+						"Sorry about that.",
+						"I would like to sincerely apologize for the error in last week's report.",
+						"It happens."
+					],
+					"correctIndex": 2,
+					"explanationZh": "sincerely apologize 用於重大失誤,加重份量。小事用 sincerely 反而顯反諷。"
+				},
+				{
+					"prompt": "解釋原因不找藉口,合適結構?",
+					"options": [
+						"It's not my fault.",
+						"The issue was caused by [reason], and we are taking steps to prevent it from happening again.",
+						"I don't know why it happened.",
+						"Sorry, but it wasn't us."
+					],
+					"correctIndex": 1,
+					"explanationZh": "解釋 + 改善動作的標準結構。「we are taking steps」表示已經在動,比 we will 強。"
+				},
+				{
+					"prompt": "「我已把 Tom 加進這封信的 cc」?",
+					"options": [
+						"Tom is in this email.",
+						"I cc'd Tom on this email.",
+						"Tom should read this too.",
+						"+Tom"
+					],
+					"correctIndex": 1,
+					"explanationZh": "cc'd = cc 的過去式,讀作 cee-cee-d。商務 Email 通用寫法。"
+				},
+				{
+					"prompt": "「根據您上封信」最簡潔的引用?",
+					"options": [
+						"Like you said before,",
+						"According to your previous email,",
+						"As per your previous email,",
+						"In your last email,"
+					],
+					"correctIndex": 2,
+					"explanationZh": "As per 是商務 Email 引用慣用語,比 According to 簡潔書面。"
+				},
+				{
+					"prompt": "想要先謝對方協助,放在信尾合適嗎?",
+					"options": [
+						"Thank you in advance for your assistance.",
+						"Thanks now for help later.",
+						"Thanks in advance — bye.",
+						"Help me thanks."
+					],
+					"correctIndex": 0,
+					"explanationZh": "Thank you in advance for your assistance 是委託 / 請求類 Email 必備收尾。"
+				},
+				{
+					"prompt": "「請確認收到這封信」?",
+					"options": [
+						"Tell me you got this.",
+						"Did you read this?",
+						"Could you confirm receipt of this email?",
+						"Reply if you got it."
+					],
+					"correctIndex": 2,
+					"explanationZh": "confirm receipt 是商務固定片語,比 did you get this 正式。"
+				},
+				{
+					"prompt": "「不急,你方便時告訴我」?",
+					"options": [
+						"No rush — let me know when you have a moment.",
+						"Don't worry about it.",
+						"Whenever.",
+						"Forget it."
+					],
+					"correctIndex": 0,
+					"explanationZh": "No rush 是英文 Email「讓對方放心」收尾;配請求句一起用很萬用。"
+				},
+				{
+					"prompt": "客戶服務道歉信收尾,最佳句?",
+					"options": [
+						"Bye.",
+						"That's all.",
+						"Thank you for your patience and understanding.",
+						"OK?"
+					],
+					"correctIndex": 2,
+					"explanationZh": "Thank you for your patience and understanding 是道歉信標配結尾,讓客戶氣消一半。"
+				},
+				{
+					"prompt": "「我必須改期」最建設性的說法?",
+					"options": [
+						"I'm canceling our meeting.",
+						"Sorry, can't make it.",
+						"Unfortunately, I need to reschedule our meeting due to a conflict.",
+						"Skip the meeting."
+					],
+					"correctIndex": 2,
+					"explanationZh": "reschedule 比 cancel 建設性;Unfortunately + due to [reason] = 帶歉意 + 解釋原因。"
+				},
+				{
+					"prompt": "「這事有時效性」最得體的說法?",
+					"options": [
+						"URGENT!!!",
+						"This is time-sensitive — could you respond by Friday?",
+						"Hurry up.",
+						"Reply now."
+					],
+					"correctIndex": 1,
+					"explanationZh": "time-sensitive 比 urgent 軟,給對方尊重;搭配明確截止日效果最好。"
+				},
+				{
+					"prompt": "客戶問你問題你還沒答,3 天後追蹤,合適開場?",
+					"options": [
+						"Did you forget?",
+						"Hello again!",
+						"Following up on my previous email regarding the proposal.",
+						"Reminder!!"
+					],
+					"correctIndex": 2,
+					"explanationZh": "Following up on my previous email regarding [topic] 是商務 Email 第二高頻片語,客氣有效。"
+				}
+			]
+		}
+	}
+}

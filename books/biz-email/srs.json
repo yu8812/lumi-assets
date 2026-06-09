@@ -1,0 +1,342 @@
+{
+	"format": "lumi-srs",
+	"version": 1,
+	"bookSlug": "biz-email",
+	"decks": {
+		"opening": {
+			"title": "開頭問候 4 句",
+			"cards": [
+				{
+					"id": "hope-well",
+					"front": "I hope this email finds you well.",
+					"back": "希望你收到這封信時一切都好。(模板級高頻,正式但不冷)",
+					"hint": "替代:I hope you're doing well.(隨意)"
+				},
+				{
+					"id": "inquire",
+					"front": "I am writing to inquire about [topic].",
+					"back": "我寫信來詢問 [主題]。(主動聯絡 / 第一次接觸)",
+					"hint": "inquire 比 ask 正式;reach out 是隨意版"
+				},
+				{
+					"id": "thanks-email",
+					"front": "Thank you for your email regarding [topic].",
+					"back": "謝謝你關於 [主題] 的來信。(正式回信開頭)",
+					"hint": "替代:Thanks for getting in touch.(輕鬆)"
+				},
+				{
+					"id": "intro-self",
+					"front": "My name is [Name] and I am the [role] at [company].",
+					"back": "我是 [姓名],[公司] 的 [職位]。(自我介紹)",
+					"hint": "對方不認識你時用,常配「I am writing to inquire」一起"
+				}
+			]
+		},
+		"notification": {
+			"title": "報告 / 通知 7 句",
+			"cards": [
+				{
+					"id": "inform-formal",
+					"front": "I would like to inform you that [event].",
+					"back": "我想告知您 [事件]。(最正式通知開場)",
+					"hint": "替代:I wanted to let you know that ...(隨意)"
+				},
+				{
+					"id": "delay-advise",
+					"front": "Please be advised that there will be a delay in [process].",
+					"back": "請注意 [流程] 將會延遲。(通知延遲)",
+					"hint": "Please be advised 是商務專用,比 sorry 早一步嚴肅"
+				},
+				{
+					"id": "pleased-confirm",
+					"front": "I am pleased to confirm that [result].",
+					"back": "我很高興地確認 [結果]。(通知好消息)",
+					"hint": "pleased 比 happy 更正式;給上級 / 客戶用"
+				},
+				{
+					"id": "friendly-reminder",
+					"front": "This is a friendly reminder that [deadline] is approaching.",
+					"back": "友善提醒 [截止日] 即將到來。",
+					"hint": "「催但不兇」的英文表達,直接寫 reminder 偏硬"
+				},
+				{
+					"id": "following-up",
+					"front": "Following up on my previous email regarding [topic].",
+					"back": "延續上一封關於 [主題] 的信。",
+					"hint": "商務 Email 第二高頻片語(僅次於 Best regards)"
+				},
+				{
+					"id": "as-of",
+					"front": "As of [date], [person] will be taking over [role].",
+					"back": "自 [日期] 起,[某人] 將接手 [職位]。(人事異動)",
+					"hint": "As of = 從某天起,商務通用"
+				},
+				{
+					"id": "effective",
+					"front": "Effective [date], we will be implementing [change].",
+					"back": "自 [日期] 起,我們將開始實施 [改變]。(政策變更)",
+					"hint": "Effective + 日期 = 正式公告語"
+				}
+			]
+		},
+		"request": {
+			"title": "請求 8 句",
+			"cards": [
+				{
+					"id": "could-please",
+					"front": "Could you please [verb] ... ?",
+					"back": "請問你可以 [動作] 嗎?(最萬用禮貌請求)",
+					"hint": "Could > Can(更客氣),please 加在動詞前"
+				},
+				{
+					"id": "possible-to",
+					"front": "Would it be possible to [verb] ... ?",
+					"back": "請問是否可能 [動作]?(請對方額外付出)",
+					"hint": "隱含「我知道可能麻煩」,適合上級"
+				},
+				{
+					"id": "provide-with",
+					"front": "Could you provide me with [item]?",
+					"back": "請你提供我 [物品]?(要資料)",
+					"hint": "provide me with 比 give me 正式;合約 / 文件用"
+				},
+				{
+					"id": "confirm-whether",
+					"front": "Could you confirm whether [statement]?",
+					"back": "你能確認 [事項] 是否正確嗎?",
+					"hint": "whether 比 if 在書面更正式"
+				},
+				{
+					"id": "appreciate-if",
+					"front": "I would appreciate it if you could [verb] by [date].",
+					"back": "如果你能在 [日期] 前 [動作],我會很感謝。(委婉催進度)",
+					"hint": "英文軟催魔法句;客戶 / 老闆讀了不反感"
+				},
+				{
+					"id": "earliest-convenience",
+					"front": "At your earliest convenience, could you ...?",
+					"back": "在你方便的時候,請問你可以 ...?",
+					"hint": "「盡早,但你方便就好」,看似客氣其實是催"
+				},
+				{
+					"id": "time-sensitive",
+					"front": "This is time-sensitive — could you respond by [date]?",
+					"back": "這件事有時效性 — 請你 [日期] 前回覆?(緊急請求)",
+					"hint": "time-sensitive 比 urgent 軟,給尊重"
+				},
+				{
+					"id": "no-rush",
+					"front": "No rush — let me know if [condition].",
+					"back": "不急 — 如果 [狀況] 就告訴我。(給對方台階)",
+					"hint": "讓對方放心,配請求句一起用很萬用"
+				}
+			]
+		},
+		"apology": {
+			"title": "道歉 / 解釋 7 句",
+			"cards": [
+				{
+					"id": "delayed-response",
+					"front": "Apologies for the delayed response.",
+					"back": "抱歉延遲回覆。(超萬用)",
+					"hint": "沒在 24 小時內回信開頭都該加;比 sorry for the late reply 正式"
+				},
+				{
+					"id": "inconvenience",
+					"front": "I apologize for any inconvenience this may have caused.",
+					"back": "對於可能造成的任何不便,我深感抱歉。(模板級)",
+					"hint": "客服信件大量使用"
+				},
+				{
+					"id": "sincerely-apologize",
+					"front": "I would like to sincerely apologize for [mistake].",
+					"back": "我想為 [錯誤] 真誠地道歉。(重大失誤)",
+					"hint": "sincerely 加重份量,不能拿來道歉小事"
+				},
+				{
+					"id": "issue-caused",
+					"front": "The issue was caused by [reason], and we are taking steps to prevent it from happening again.",
+					"back": "這問題是因為 [原因] 造成,我們正在採取措施防止再發生。",
+					"hint": "we are taking steps 比 we will fix 強(已經動了)"
+				},
+				{
+					"id": "token-apology",
+					"front": "As a token of our apology, we would like to offer [compensation].",
+					"back": "作為我們道歉的表示,我們想提供 [補償]。",
+					"hint": "客戶服務常用;token = 一點表達"
+				},
+				{
+					"id": "ensure-not-again",
+					"front": "We will ensure this does not happen again.",
+					"back": "我們會確保這不會再發生。",
+					"hint": "ensure 比 make sure 更正式書面"
+				},
+				{
+					"id": "patience",
+					"front": "Thank you for your patience and understanding.",
+					"back": "感謝你的耐心與諒解。",
+					"hint": "道歉信幾乎一定要這句結尾,客戶氣消一半"
+				}
+			]
+		},
+		"meeting": {
+			"title": "安排會議 7 句",
+			"cards": [
+				{
+					"id": "schedule-meeting",
+					"front": "I would like to schedule a meeting to discuss [topic].",
+					"back": "我想安排一次會議來討論 [主題]。",
+					"hint": "schedule a meeting 是商務固定搭配"
+				},
+				{
+					"id": "available-on",
+					"front": "Are you available on [day] at [time] or [day] at [time]?",
+					"back": "你 [星期幾] [時間] 或 [星期幾] [時間] 有空嗎?",
+					"hint": "永遠提供 2 個選項;別問「什麼時候有空」"
+				},
+				{
+					"id": "works-best",
+					"front": "Please let me know what works best for you.",
+					"back": "請告訴我哪個時間對你最方便。",
+					"hint": "works best for you 比 is convenient 順口"
+				},
+				{
+					"id": "scheduled-for",
+					"front": "The meeting is scheduled for [day, date] at [time] in [location].",
+					"back": "會議定於 [星期, 日期] [時間],在 [地點 / Zoom 連結]。",
+					"hint": "scheduled for = 「定於」,正式"
+				},
+				{
+					"id": "find-agenda",
+					"front": "Please find the agenda and pre-read materials attached.",
+					"back": "議程與預習材料請見附件。",
+					"hint": "Please find ... attached 是附件標準句"
+				},
+				{
+					"id": "quick-reminder",
+					"front": "Just a quick reminder about our meeting tomorrow at [time].",
+					"back": "小提醒我們明天 [時間] 的會議。",
+					"hint": "Just a quick reminder = 「順帶提醒一下」"
+				},
+				{
+					"id": "reschedule",
+					"front": "Unfortunately, I need to reschedule our meeting due to [reason].",
+					"back": "不好意思,因為 [原因] 我需要改期。",
+					"hint": "reschedule 比 cancel 更建設性"
+				}
+			]
+		},
+		"closing": {
+			"title": "結尾 / 附件 / 追問 13 句",
+			"cards": [
+				{
+					"id": "best-regards",
+					"front": "Best regards,",
+					"back": "此致,(最常用結尾)",
+					"hint": "客戶 / 老闆 / 同事都通;Kind regards 稍微更暖"
+				},
+				{
+					"id": "do-not-hesitate",
+					"front": "Please do not hesitate to reach out if you have any questions.",
+					"back": "如有任何問題請別猶豫聯絡我。",
+					"hint": "模板級;商務客戶服務必用"
+				},
+				{
+					"id": "look-forward",
+					"front": "Looking forward to your response.",
+					"back": "期待您的回覆。",
+					"hint": "替代:I look forward to hearing from you.(更正式)"
+				},
+				{
+					"id": "thank-advance",
+					"front": "Thank you in advance for your assistance.",
+					"back": "先謝過你的協助。",
+					"hint": "in advance = 事先;委託請求時超常用"
+				},
+				{
+					"id": "have-great-day",
+					"front": "Have a great day!",
+					"back": "祝你有美好的一天!(美式商務隨意收尾)",
+					"hint": "歐洲 / 亞洲商務較少用"
+				},
+				{
+					"id": "find-attached",
+					"front": "Please find [item] attached.",
+					"back": "[物品] 請見附件。",
+					"hint": "附件提醒固定句"
+				},
+				{
+					"id": "have-attached",
+					"front": "I have attached the [item 1] and [item 2] for your reference.",
+					"back": "我附上 [物 1] 與 [物 2] 供您參考。(多附件)",
+					"hint": ""
+				},
+				{
+					"id": "find-info-link",
+					"front": "You can find more information at [link].",
+					"back": "更多資訊請參考 [連結]。",
+					"hint": ""
+				},
+				{
+					"id": "shared-doc",
+					"front": "I have shared the [doc] with you. Please review it at your convenience.",
+					"back": "我已分享 [文件] 給你。請在方便時審閱。",
+					"hint": "at your convenience 是商務固定片語"
+				},
+				{
+					"id": "any-update",
+					"front": "Has there been any update on [topic]?",
+					"back": "[主題] 有任何進展嗎?(追問狀況)",
+					"hint": ""
+				},
+				{
+					"id": "confirm-receipt",
+					"front": "Could you confirm receipt of this email?",
+					"back": "你能確認收到這封信嗎?",
+					"hint": "confirm receipt 是商務固定片語"
+				},
+				{
+					"id": "as-per",
+					"front": "As per your previous email, ...",
+					"back": "根據你之前的信,...(引用對方話)",
+					"hint": "As per 比 according to 簡潔"
+				},
+				{
+					"id": "ccd",
+					"front": "I have cc'd [person] on this email.",
+					"back": "我把 [某人] 加進這封信的 cc。",
+					"hint": "cc'd 讀作 cee-cee-d"
+				}
+			]
+		},
+		"templates": {
+			"title": "模板組合 4 句",
+			"cards": [
+				{
+					"id": "open-write",
+					"front": "I hope this email finds you well. I am writing to ...",
+					"back": "暖開頭 + 直接說明來意 — 模板 1 的雙句串接。",
+					"hint": "請求類 Email 標準雙開頭"
+				},
+				{
+					"id": "token-transition",
+					"front": "... and as a token of our apology, ...",
+					"back": "道歉接補償的轉折 — 道歉信第 4-5 步銜接。",
+					"hint": "前面解釋原因 / 改善動作之後接這句切換到補償"
+				},
+				{
+					"id": "confirm-attach",
+					"front": "... once confirmed. Please find [item] attached.",
+					"back": "確認 + 附件的順敘 — 會議邀請信收尾用。",
+					"hint": "「確認後 + 附件已附」一氣呵成"
+				},
+				{
+					"id": "follow-update",
+					"front": "Following up ... Has there been any update on ...?",
+					"back": "跟進結構 — 第二次催信的標準雙句。",
+					"hint": "第一封信沒回的後續追蹤"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,281 @@
+{
+	"format": "lumi-quiz",
+	"version": 1,
+	"bookSlug": "jp-n5-vocab",
+	"sets": {
+		"milestone1": {
+			"title": "主題 1-4 名詞驗收(人 / 學校 / 家中 / 食物)",
+			"questions": [
+				{
+					"prompt": "「父」(自家爸爸)讀音?",
+					"options": ["はは", "ちち", "あに", "おとうさん"],
+					"correctIndex": 1,
+					"explanationZh": "自家爸爸 = ちち。お父さん 是對外或在家直呼用。はは 是自家媽,あに 是自家哥。"
+				},
+				{
+					"prompt": "對外人講「我媽」,正確的是?",
+					"options": ["おかあさん", "ちち", "はは", "ごかぞく"],
+					"correctIndex": 2,
+					"explanationZh": "對外講自家成員用謙稱:はは。對人家媽或在家喊用 おかあさん。"
+				},
+				{
+					"prompt": "「先生」在日語中通常指?",
+					"options": ["先生(Mr.)", "老師 / 醫師 / 律師(尊稱)", "前輩", "上司"],
+					"correctIndex": 1,
+					"explanationZh": "先生 = 對專業人士的尊稱,不是中文的「Mr.」。日語的「先生」涵蓋老師 / 醫師 / 律師 / 議員等。"
+				},
+				{
+					"prompt": "「新聞(しんぶん)」是什麼意思?",
+					"options": ["新聞", "報紙", "公告", "雜誌"],
+					"correctIndex": 1,
+					"explanationZh": "新聞 = 報紙(陷阱:不是中文「新聞」!)。中文的新聞 → ニュース。"
+				},
+				{
+					"prompt": "「友達」讀音?",
+					"options": ["ともだち", "ゆうじん", "なかま", "あいて"],
+					"correctIndex": 0,
+					"explanationZh": "友達 = ともだち(朋友)。其他三個是 N3 以上字。"
+				},
+				{
+					"prompt": "「弁当」是?",
+					"options": ["便當", "便箋", "便利", "便宜"],
+					"correctIndex": 0,
+					"explanationZh": "弁当 = べんとう(便當)。"
+				},
+				{
+					"prompt": "「肉(にく)」對照「野菜(やさい)」中文?",
+					"options": ["魚 vs 蛋", "肉 vs 蔬菜", "肉 vs 野鴨", "麵 vs 飯"],
+					"correctIndex": 1,
+					"explanationZh": "肉 = にく / 野菜 = やさい(蔬菜)。"
+				},
+				{
+					"prompt": "「家(いえ)」跟「うち」差別?",
+					"options": [
+						"完全一樣",
+						"家 強調建築物 / うち 強調所屬",
+						"家 是新房 / うち 是舊房",
+						"家 是日語 / うち 是外來語"
+					],
+					"correctIndex": 1,
+					"explanationZh": "いえ 強調建築物本身;うち 強調「我家 / 我所屬」。例:「うちは犬がいます」我家有狗。"
+				},
+				{
+					"prompt": "「学校(がっこう)」一般指?",
+					"options": ["小學", "大學", "學校(總稱)", "補習班"],
+					"correctIndex": 2,
+					"explanationZh": "学校 是學校的總稱。小学校 / 中学校 / 高校 / 大学 都是具體分類。"
+				},
+				{
+					"prompt": "「冰箱」日語?",
+					"options": ["れいぞうこ", "せんたくき", "エアコン", "テレビ"],
+					"correctIndex": 0,
+					"explanationZh": "冷蔵庫 = れいぞうこ。"
+				},
+				{
+					"prompt": "「箸(はし)」是?",
+					"options": ["筷子", "橋", "湯匙", "店家"],
+					"correctIndex": 0,
+					"explanationZh": "箸 = はし(筷子)。同音字:橋(はし)橋,要靠重音分。"
+				},
+				{
+					"prompt": "「子供」是?",
+					"options": ["長輩", "小孩", "嬰兒", "兄弟"],
+					"correctIndex": 1,
+					"explanationZh": "子供 = こども(小孩)。嬰兒 = 赤ちゃん。"
+				}
+			]
+		},
+		"milestone2": {
+			"title": "主題 5-9 名詞驗收(身體 / 衣服 / 時間 / 自然)",
+			"questions": [
+				{
+					"prompt": "「目(め)」是?",
+					"options": ["眼睛", "嘴", "耳朵", "鼻"],
+					"correctIndex": 0,
+					"explanationZh": "目 = め(眼睛)。"
+				},
+				{
+					"prompt": "「風邪(かぜ)」是?",
+					"options": ["風", "感冒", "颱風", "天氣"],
+					"correctIndex": 1,
+					"explanationZh": "風邪 = かぜ(感冒),同音不同義於 風(かぜ)風。"
+				},
+				{
+					"prompt": "「靴下(くつした)」是?",
+					"options": ["鞋帶", "襪子", "拖鞋", "鞋墊"],
+					"correctIndex": 1,
+					"explanationZh": "靴下 = 字面「鞋下」= 襪子。"
+				},
+				{
+					"prompt": "「青い」在日語裡可以指?",
+					"options": ["只有藍", "藍 + 綠(信號燈)", "只有綠", "只有黑"],
+					"correctIndex": 1,
+					"explanationZh": "日語 青 包含綠 — 紅綠燈、植物、年輕用 青;精確的藍用 ブルー / 青色。"
+				},
+				{
+					"prompt": "「明日」讀音?",
+					"options": ["きょう", "あした", "きのう", "あさって"],
+					"correctIndex": 1,
+					"explanationZh": "明日 = あした(明天)。きょう 今天,きのう 昨天,あさって 後天。"
+				},
+				{
+					"prompt": "「週末(しゅうまつ)」是?",
+					"options": ["週初", "週末", "上週", "下週"],
+					"correctIndex": 1,
+					"explanationZh": "週末 = しゅうまつ(週末)。"
+				},
+				{
+					"prompt": "「金曜日」是星期?",
+					"options": ["三", "四", "五", "六"],
+					"correctIndex": 2,
+					"explanationZh": "金曜日 = きんようび(週五)。順序:月火水木金土日。"
+				},
+				{
+					"prompt": "「雨」跟「飴」(都念 あめ)分別是?",
+					"options": [
+						"都是雨",
+						"都是糖",
+						"雨 = 雨 / 飴 = 糖",
+						"雨 = 糖 / 飴 = 雨"
+					],
+					"correctIndex": 2,
+					"explanationZh": "雨(あめ)雨,飴(あめ)糖。同音字,重音不同;雨高低、糖低高。"
+				},
+				{
+					"prompt": "「川」是?",
+					"options": ["山", "海", "河", "湖"],
+					"correctIndex": 2,
+					"explanationZh": "川 = かわ(河)。"
+				},
+				{
+					"prompt": "「魚」讀音?",
+					"options": ["うお", "さかな", "とり", "むし"],
+					"correctIndex": 1,
+					"explanationZh": "魚 = さかな(N5 常用讀音)。うお 是文言或特定詞才用。"
+				},
+				{
+					"prompt": "「眼鏡(めがね)」是?",
+					"options": ["眼睛", "鏡子", "眼鏡", "鏡頭"],
+					"correctIndex": 2,
+					"explanationZh": "眼鏡 = めがね(眼鏡)。"
+				},
+				{
+					"prompt": "「お腹」是?",
+					"options": ["背", "腰", "肚子", "胃"],
+					"correctIndex": 2,
+					"explanationZh": "お腹 = おなか(肚子)。"
+				}
+			]
+		},
+		"final": {
+			"title": "全書 300 字綜合驗收",
+			"questions": [
+				{
+					"prompt": "「電車(でんしゃ)」是?",
+					"options": ["電車", "地鐵", "公車", "計程車"],
+					"correctIndex": 0,
+					"explanationZh": "電車 = でんしゃ。地鐵 = ちかてつ。"
+				},
+				{
+					"prompt": "「便利商店」日語?",
+					"options": ["デパート", "スーパー", "コンビニ", "レストラン"],
+					"correctIndex": 2,
+					"explanationZh": "コンビニ(源自 convenience store)。デパート 百貨,スーパー 超市。"
+				},
+				{
+					"prompt": "「会う」是?",
+					"options": ["碰面 / 見面", "離開", "等待", "回家"],
+					"correctIndex": 0,
+					"explanationZh": "会う = あう(見面)。「人に会う」跟某人見面。"
+				},
+				{
+					"prompt": "「飲む」的類別?",
+					"options": ["I 類", "II 類", "III 類", "不規則"],
+					"correctIndex": 0,
+					"explanationZh": "飲む 字尾 む(u 段),屬 I 類。"
+				},
+				{
+					"prompt": "「帰る」屬?",
+					"options": ["I 類", "II 類", "III 類", "都不是"],
+					"correctIndex": 0,
+					"explanationZh": "帰る 看起來像 II 類(え+る)但實為 I 類陷阱。同類:入る / 走る / 切る / 知る / 要る。"
+				},
+				{
+					"prompt": "「ある」跟「いる」差?",
+					"options": [
+						"都是有",
+						"ある 物 / いる 人 / 動物",
+						"ある 人 / いる 物",
+						"ある 現在 / いる 過去"
+					],
+					"correctIndex": 1,
+					"explanationZh": "ある 用於物品 / 植物(無生命);いる 用於人 / 動物(有生命)。N5 必考。"
+				},
+				{
+					"prompt": "「乗る」搭配的助詞?",
+					"options": ["を", "に", "で", "が"],
+					"correctIndex": 1,
+					"explanationZh": "「電車に乗る」搭電車 — 乗る 後接 に。"
+				},
+				{
+					"prompt": "「貸す」跟「借りる」差?",
+					"options": [
+						"都是借",
+						"貸す = 借出(我給人) / 借りる = 借入(我從人那拿)",
+						"貸す = 借入 / 借りる = 借出",
+						"完全沒差"
+					],
+					"correctIndex": 1,
+					"explanationZh": "貸す(かす)我借東西給人;借りる(かりる)我跟人借東西。方向相反。"
+				},
+				{
+					"prompt": "「嫌い」是哪一類?",
+					"options": ["い形容詞", "な形容詞", "動詞", "副詞"],
+					"correctIndex": 1,
+					"explanationZh": "嫌い 字尾い 結尾但實為 な形容詞(陷阱)。同類陷阱:綺麗 / 有名 / 元気。"
+				},
+				{
+					"prompt": "「いい」過去式?",
+					"options": ["いかった", "いいかった", "よかった", "いいでした"],
+					"correctIndex": 2,
+					"explanationZh": "いい 是唯一不規則 い形:過去 = よかった、否定 = よくない。"
+				},
+				{
+					"prompt": "「あまり」後面通常接?",
+					"options": ["肯定", "否定", "疑問", "命令"],
+					"correctIndex": 1,
+					"explanationZh": "「あまり…ない」= 不太…。あまり 跟 全然 後面都接否定。"
+				},
+				{
+					"prompt": "「もう」在「もう食べました」中?",
+					"options": ["還沒", "正在", "已經", "可能"],
+					"correctIndex": 2,
+					"explanationZh": "もう = 已經。「もう食べました」我已經吃了。對照 まだ = 還 / 尚未。"
+				},
+				{
+					"prompt": "「住んでいます」搭配的助詞?",
+					"options": ["を", "に", "で", "は"],
+					"correctIndex": 1,
+					"explanationZh": "「東京に住んでいます」住東京 — 住む 後接 に(存在場所)。"
+				},
+				{
+					"prompt": "「上手(じょうず)」搭配的助詞?",
+					"options": ["を", "に", "が", "で"],
+					"correctIndex": 2,
+					"explanationZh": "「英語が上手」英文厲害 — 能力 / 喜好對象用 が。同型:好き / 嫌い / 下手。"
+				},
+				{
+					"prompt": "「全然分かりません」意思?",
+					"options": [
+						"完全懂",
+						"完全不懂",
+						"有點懂",
+						"懂一半"
+					],
+					"correctIndex": 1,
+					"explanationZh": "全然 + 否定 = 完全不…。「全然分かりません」完全不懂。"
+				}
+			]
+		}
+	}
+}
