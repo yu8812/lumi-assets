@@ -1,0 +1,243 @@
+{
+	"slug": "the-inheritance",
+	"title": "The Inheritance",
+	"language": "en",
+	"cast": {
+		"narrator": "en-US-AriaNeural",
+		"Maya": "en-US-JennyNeural",
+		"Mr Whitman": "en-GB-RyanNeural",
+		"Ms Wu": "en-AU-NatashaNeural"
+	},
+	"audio": "/audio/v2/short-stories/the-inheritance.mp3",
+	"durationMs": 410256,
+	"segments": [
+		{
+			"speaker": "narrator",
+			"text": "The doorbell still rang, even after a month of silence. Maya stepped into the shop and let the door swing shut behind her. October light fell across the wooden floor in long, dusty bars. The smell — paper, lemon polish, faintly of cinnamon — was exactly as it had always been.\n\nShe had told herself she would not cry today. She had told herself that yesterday, too.\n\nA man cleared his throat near the back. He was perhaps sixty, in a navy overcoat, holding a brown leather portfolio. He smiled — the kind of smile rehearsed for difficult mornings.",
+			"startMs": 0,
+			"endMs": 38592
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "Miss Maya? I'm Edmund Whitman. We spoke on the phone. Thank you for coming in.",
+			"startMs": 38592,
+			"endMs": 46320
+		},
+		{
+			"speaker": "Maya",
+			"text": "Thank you for being patient with me. I — I wasn't sure if I'd be able to.",
+			"startMs": 46320,
+			"endMs": 51960
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "Of course. There's no rush this morning. I have until two. Shall we sit?",
+			"startMs": 51960,
+			"endMs": 59640
+		},
+		{
+			"speaker": "narrator",
+			"text": "They sat at the small round table near the children's section, where Maya had read aloud to herself, age seven, when her grandmother was busy. Mr Whitman set the portfolio down with care, as though afraid of disturbing something.",
+			"startMs": 59640,
+			"endMs": 73896
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "Before we look at the documents, I want to say — your grandmother was extraordinarily organised. Everything was where it needed to be. She made my job easy. That's rare.",
+			"startMs": 73896,
+			"endMs": 86208
+		},
+		{
+			"speaker": "Maya",
+			"text": "That sounds like her.",
+			"startMs": 86208,
+			"endMs": 88320
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "The summary is straightforward. The lease runs out at the end of next month. The landlord has agreed not to backdate the rent, given the circumstances, which is more than he had to do. The remaining stock can be sold or donated. Your grandmother left you the proceeds, after costs, and the lease keys.",
+			"startMs": 88320,
+			"endMs": 108528
+		},
+		{
+			"speaker": "Maya",
+			"text": "And there's no — option to keep it open?",
+			"startMs": 108528,
+			"endMs": 111624
+		},
+		{
+			"speaker": "narrator",
+			"text": "He glanced down at his hands.",
+			"startMs": 111624,
+			"endMs": 114288
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "Off the record? The shop hasn't broken even in eight years. Your grandmother kept it open out of will. The numbers don't work without her, and they barely worked with her. I'm not advising you what to do. But I'd be a poor lawyer if I let you sign something thinking the answer was simple.",
+			"startMs": 114288,
+			"endMs": 133440
+		},
+		{
+			"speaker": "narrator",
+			"text": "Maya looked at the spines on the nearest shelf. Half of them she knew without reading the titles. Some had been there as long as she had.\n\nThe bell rang again. They both looked up.\n\nA woman in her late fifties walked in — short hair, a deep green coat, a canvas bag full of groceries. She stopped when she saw them.",
+			"startMs": 133440,
+			"endMs": 156432
+		},
+		{
+			"speaker": "Ms Wu",
+			"text": "Oh — I'm so sorry, I'll come back. I wasn't sure when you'd reopen, I just — sorry, I'll go.",
+			"startMs": 156432,
+			"endMs": 164688
+		},
+		{
+			"speaker": "Maya",
+			"text": "No, please, it's all right. Were you a customer of my grandmother's?",
+			"startMs": 164688,
+			"endMs": 170448
+		},
+		{
+			"speaker": "Ms Wu",
+			"text": "Customer? I — well, yes. For thirty-one years. I came here on my first week in this country. She gave me a dictionary on credit, because I didn't have the full price. I never finished paying her.",
+			"startMs": 170448,
+			"endMs": 187200
+		},
+		{
+			"speaker": "narrator",
+			"text": "The woman laughed, then her eyes filled.",
+			"startMs": 187200,
+			"endMs": 190440
+		},
+		{
+			"speaker": "Ms Wu",
+			"text": "I'm so sorry for your loss. She was — she was a very important person, to many of us.",
+			"startMs": 190440,
+			"endMs": 197640
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "Please, sit. I'm a friend of the family. Edmund.",
+			"startMs": 197640,
+			"endMs": 203208
+		},
+		{
+			"speaker": "Ms Wu",
+			"text": "Eileen. Eileen Wu. I should let you both —",
+			"startMs": 203208,
+			"endMs": 208560
+		},
+		{
+			"speaker": "Maya",
+			"text": "Stay. Please. I don't — I don't know anything about the shop, really. Just what it looked like from a child's height. Could you — would you tell me what she meant to people like you?",
+			"startMs": 208560,
+			"endMs": 221736
+		},
+		{
+			"speaker": "narrator",
+			"text": "Ms Wu set down her bag.",
+			"startMs": 221736,
+			"endMs": 224352
+		},
+		{
+			"speaker": "Ms Wu",
+			"text": "Where to begin. There's a — small group, maybe fifteen, twenty of us, who come in every Saturday. We don't all know each other's full names. But she knew us. She knew what each of us was reading. When my husband died, she didn't say anything. She just put a copy of a book on the counter and slid it toward me. She said, bring it back when you can. That was nine years ago. I still have it.",
+			"startMs": 224352,
+			"endMs": 255552
+		},
+		{
+			"speaker": "narrator",
+			"text": "Mr Whitman was looking at the table. Maya did not trust herself to speak.",
+			"startMs": 255552,
+			"endMs": 261432
+		},
+		{
+			"speaker": "Ms Wu",
+			"text": "I'm not saying this to make a case. I know the maths must be terrible. I'm saying it because if I don't say it now, I won't have another chance. She made it possible for a great many small things in a great many lives. She would say it was nothing. It wasn't nothing.",
+			"startMs": 261432,
+			"endMs": 281568
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "Thank you, Mrs Wu. For coming in. Maya, the documents will keep until next week if you need time. There is no urgency.",
+			"startMs": 281568,
+			"endMs": 292080
+		},
+		{
+			"speaker": "Maya",
+			"text": "How — how much does it cost to keep it open for one more year? Just one. Without growing. Without changing anything.",
+			"startMs": 292080,
+			"endMs": 302016
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "You don't have to decide today.",
+			"startMs": 302016,
+			"endMs": 304632
+		},
+		{
+			"speaker": "Maya",
+			"text": "I'm not deciding. I'm asking.",
+			"startMs": 304632,
+			"endMs": 308328
+		},
+		{
+			"speaker": "narrator",
+			"text": "He took a breath.",
+			"startMs": 308328,
+			"endMs": 310248
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "Including rent, inventory rotation, and a part-time helper so you don't have to be here every day — somewhere between forty and fifty thousand, in the first year. After that, it depends on what you do.",
+			"startMs": 310248,
+			"endMs": 323376
+		},
+		{
+			"speaker": "Maya",
+			"text": "And if I tried something — something different. A small reading group. Some events. Online sales. Could it survive on its own after the first year?",
+			"startMs": 323376,
+			"endMs": 335616
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "I would say — possibly. With a lot of work. And a lot of luck. I cannot promise.",
+			"startMs": 335616,
+			"endMs": 343848
+		},
+		{
+			"speaker": "Ms Wu",
+			"text": "There are people who would help. I would help. I think — I know — there are others.",
+			"startMs": 343848,
+			"endMs": 350880
+		},
+		{
+			"speaker": "narrator",
+			"text": "Maya looked at Mr Whitman. Then at Ms Wu. Then at the bell over the door, still slightly trembling from when Ms Wu had come in.",
+			"startMs": 350880,
+			"endMs": 360648
+		},
+		{
+			"speaker": "Maya",
+			"text": "I won't sign the papers today. I want to look at the books. The financial ones. And I want to think about it for a week.",
+			"startMs": 360648,
+			"endMs": 370224
+		},
+		{
+			"speaker": "Mr Whitman",
+			"text": "Good. I'll come back next Tuesday.",
+			"startMs": 370224,
+			"endMs": 374112
+		},
+		{
+			"speaker": "Ms Wu",
+			"text": "Whatever you decide, please — please don't apologise for it. She wouldn't have wanted that.",
+			"startMs": 374112,
+			"endMs": 380976
+		},
+		{
+			"speaker": "narrator",
+			"text": "Mr Whitman gathered his portfolio. Ms Wu picked up her bag and reached for the door. Maya stood in the middle of the shop, in the long October light, and listened to the bell ring twice as they left.\n\nShe did not cry. She did not yet know if she would keep the shop or close it. But for the first time since the funeral, she felt as though she had been let in on a conversation that had been going on long before her — and was not, after all, finished.",
+			"startMs": 380976,
+			"endMs": 410256
+		}
+	]
+}
