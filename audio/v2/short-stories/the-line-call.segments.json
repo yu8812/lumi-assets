@@ -1,0 +1,833 @@
+{
+	"slug": "the-line-call",
+	"title": "那通 LINE 通話",
+	"language": "zh",
+	"cast": {
+		"narrator": "zh-CN-YunjianNeural",
+		"美玲": "zh-CN-XiaoxiaoNeural",
+		"Mark": "en-US-AndrewMultilingualNeural",
+		"王律師": "zh-CN-YunyangNeural"
+	},
+	"audio": "/audio/v2/short-stories/the-line-call.mp3",
+	"durationMs": 780528,
+	"segments": [
+		{
+			"speaker": "narrator",
+			"text": "十一月的台北,晚上十一點。陳美玲坐在敦化南路一棟舊辦公樓的十二樓。落地窗外,信義區的燈光透過薄霧,像一片倒著的星空。",
+			"startMs": 0,
+			"endMs": 13032
+		},
+		{
+			"speaker": "narrator",
+			"text": "她三十八歲。WordFlow 是她跟 Mark Hartwell 七年前在史丹佛宿舍裡開始寫的 — 一個多益 prep app,核心邏輯是「不教你題型,直接讓你練到不需要教」。七年了。兩百多人公司,北美三十萬付費用戶,亞洲五十萬。年營收三千萬美金,還在成長,但比去年慢了三成。",
+			"startMs": 13032,
+			"endMs": 36864
+		},
+		{
+			"speaker": "narrator",
+			"text": "她的桌上放著一份十七頁的英文文件,封面寫著:HINODE 資本,Term Sheet 草約,機密文件。",
+			"startMs": 36864,
+			"endMs": 45216
+		},
+		{
+			"speaker": "narrator",
+			"text": "日本軟銀的關係企業,出價兩億五千萬美金。Cash + earn-out。她算過,扣掉投資人的 liquidation preference,她跟 Mark 兩個 founder 各拿到大約四千兩百萬美金。",
+			"startMs": 45216,
+			"endMs": 58968
+		},
+		{
+			"speaker": "narrator",
+			"text": "她把文件翻開到第三頁,看著上面密密麻麻的條款。然後她打開電腦,點開 LINE。",
+			"startMs": 58968,
+			"endMs": 66864
+		},
+		{
+			"speaker": "narrator",
+			"text": "她按下了 video call。三秒,Mark 接了。",
+			"startMs": 66864,
+			"endMs": 71592
+		},
+		{
+			"speaker": "Mark",
+			"text": "Hey. 美玲.",
+			"startMs": 71592,
+			"endMs": 73368,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "畫面裡是 Mark 的廚房。舊金山現在是早上七點。他穿著白色 T 恤,頭髮還沒整理,手裡端著一杯咖啡。窗外是灰色的海灣。",
+			"startMs": 73368,
+			"endMs": 86184
+		},
+		{
+			"speaker": "美玲",
+			"text": "你穿這樣去 board meeting?",
+			"startMs": 86184,
+			"endMs": 88512,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "Board meeting 是十點。我還有三個鐘頭。",
+			"startMs": 88512,
+			"endMs": 92352,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我這邊已經半夜了。",
+			"startMs": 92352,
+			"endMs": 94608,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "我知道。Sorry. I should have offered to take this at — at your time.",
+			"startMs": 94608,
+			"endMs": 99984,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "沒關係。我要決定的事,我自己挑時間。",
+			"startMs": 99984,
+			"endMs": 104616,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他沒回。他把咖啡放下,看著鏡頭。畫面靜了大約四秒。",
+			"startMs": 104616,
+			"endMs": 111384
+		},
+		{
+			"speaker": "Mark",
+			"text": "美玲. You read the term sheet.",
+			"startMs": 111384,
+			"endMs": 113904,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我讀了。三遍。",
+			"startMs": 113904,
+			"endMs": 116760,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Mark",
+			"text": "And?",
+			"startMs": 116760,
+			"endMs": 117504,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 我覺得我們應該接。",
+			"startMs": 117504,
+			"endMs": 120096,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他低下頭,搓了一下臉。",
+			"startMs": 120096,
+			"endMs": 122928
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 美玲. 我們花了七年.",
+			"startMs": 122928,
+			"endMs": 126072,
+			"emotion": "frustrated"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我知道。",
+			"startMs": 126072,
+			"endMs": 127608,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Mark",
+			"text": "我們從一個 dorm room 開始,做到三千萬 ARR. We have product-market fit. We have a real moat. Hinode 出兩億五,是因為他們知道我們明年可以 raise Series D at 5 億 evaluation,然後再過兩年 IPO 至少 1 billion. 他們在 buy time. They are not buying value. They are buying the next two years from us, at a discount.",
+			"startMs": 127608,
+			"endMs": 152520,
+			"emotion": "frustrated"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我知道你怎麼算的。我自己也算過。",
+			"startMs": 152520,
+			"endMs": 156888,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Mark",
+			"text": "那你 — 你還想接?",
+			"startMs": 156888,
+			"endMs": 159408,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 對。",
+			"startMs": 159408,
+			"endMs": 160560,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Mark",
+			"text": "為什麼?",
+			"startMs": 160560,
+			"endMs": 161712,
+			"emotion": "frustrated"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她沒有馬上回答。她從桌上拿起一個小小的水晶杯,裡頭有半杯冷掉的烏龍。她喝了一口。",
+			"startMs": 161712,
+			"endMs": 170952
+		},
+		{
+			"speaker": "美玲",
+			"text": "Mark, 我累了。",
+			"startMs": 170952,
+			"endMs": 172920,
+			"emotion": "tired"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 我也累了。Everyone is tired. That's the job.",
+			"startMs": 172920,
+			"endMs": 177048,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "美玲",
+			"text": "不一樣。",
+			"startMs": 177048,
+			"endMs": 178368,
+			"emotion": "tired"
+		},
+		{
+			"speaker": "Mark",
+			"text": "怎麼不一樣。",
+			"startMs": 178368,
+			"endMs": 179856,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我每天睡四個鐘頭,已經兩年。我上禮拜 PM 找我 review roadmap,我看著看著哭出來。我哭出來不是因為 roadmap 不好,是因為我發現我看不懂了。Mark, 七年前我們可以一個下午寫完 ten thousand lines of TOEIC questions metadata. 現在我們的 codebase 我已經 — 我已經追不上了。",
+			"startMs": 179856,
+			"endMs": 204864,
+			"emotion": "tired"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 那是 CTO 的工作。You don't have to —",
+			"startMs": 204864,
+			"endMs": 209088,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我是 CEO. 我不需要寫 code. 但我需要懂. 我不懂了,Mark. 我已經 — I cannot hold the whole picture in my head anymore.",
+			"startMs": 209088,
+			"endMs": 220152,
+			"emotion": "tired"
+		},
+		{
+			"speaker": "Mark",
+			"text": "那 — 那找個 COO. 找一個 Sheryl Sandberg figure. 我們有 budget. 我來幫你 hire.",
+			"startMs": 220152,
+			"endMs": 228648,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "美玲",
+			"text": "這不是 hiring 能解決的問題.",
+			"startMs": 228648,
+			"endMs": 231768,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她靠回椅背。窗外的霧更濃了。",
+			"startMs": 231768,
+			"endMs": 235896
+		},
+		{
+			"speaker": "narrator",
+			"text": "就在這個時候,LINE 視窗下面跳出第三個人加入的通知。是王律師。",
+			"startMs": 235896,
+			"endMs": 242760
+		},
+		{
+			"speaker": "narrator",
+			"text": "王克儉,五十七歲,北加州出生的台灣人,輔大法律系畢,後來在紐約 White and Case 律師事務所做了二十年 corporate law,十年前回台灣。是 WordFlow 從 Series A 開始的法律顧問。",
+			"startMs": 242760,
+			"endMs": 257544
+		},
+		{
+			"speaker": "王律師",
+			"text": "不好意思,我晚了三分鐘。Mark, 早。美玲,要不要我等十分鐘再講?你跟 Mark 看起來在 —",
+			"startMs": 257544,
+			"endMs": 266400,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "美玲",
+			"text": "不用。王律師,你進來剛好。",
+			"startMs": 266400,
+			"endMs": 270120,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "王律師",
+			"text": "那好。我這邊有讀過 Hinode 的 term sheet. 簡單講三件事。",
+			"startMs": 270120,
+			"endMs": 276456,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "王律師",
+			"text": "第一,liquidation preference. 他們開的是 1x non-participating preferred. 這對 founder 算合理 — non-participating 表示如果你們最後賣超過 cap 的話,他們會選擇 convert 成 common,然後跟你們 pro rata 拿。標準。沒有 funky stuff.",
+			"startMs": 276456,
+			"endMs": 296544,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "王律師",
+			"text": "第二,vesting. 你們兩個 founder 還剩兩年 unvested. Hinode 要求 acquisition close 之後 reset vesting clock — 一年 cliff,然後四年 vesting. 這個其實 — 這個其實過分了一點。我會 push 他們改成 immediate vesting on close,或至少 50% accelerated.",
+			"startMs": 296544,
+			"endMs": 318648,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Mark",
+			"text": "That's standard for an acqui-hire.",
+			"startMs": 318648,
+			"endMs": 320976,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "王律師",
+			"text": "這不是 acqui-hire. They are buying a profitable company. They are not buying the team. 不同的 deal,不同的 leverage.",
+			"startMs": 320976,
+			"endMs": 329952,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 對.",
+			"startMs": 329952,
+			"endMs": 331032,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "王律師",
+			"text": "第三,earn-out. 這個你們要小心. 兩年 earn-out 綁在三個 metrics — ARR, retention, expansion revenue. 三個都要達標才拿到全額. 我看了他們的 model, 他們的假設 — 美玲,你看一下這個 — 他們假設我們 expansion revenue YoY 50%. 我們今年 30%.",
+			"startMs": 331032,
+			"endMs": 354168,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我知道.",
+			"startMs": 354168,
+			"endMs": 355608,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "王律師",
+			"text": "也就是說 earn-out 那六千萬,有一半的機率你們拿不到. 真正落袋的可能只有一億九千萬. 兩個 founder 各拿到大約三千兩百萬美金,不是四千兩百萬.",
+			"startMs": 355608,
+			"endMs": 369000,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 還是不錯.",
+			"startMs": 369000,
+			"endMs": 370872,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "美玲",
+			"text": "還是不錯.",
+			"startMs": 370872,
+			"endMs": 372480,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "王律師",
+			"text": "我的職業建議是,我們可以 counter. 我們可以爭取 raise the price 到 兩億八,改 earn-out 條件,加上 immediate vesting. 我預估他們會接.",
+			"startMs": 372480,
+			"endMs": 384264,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 你說的對. But — but 王律師, 我們先擱一下這些. 我跟 Mark 還需要 — we need to decide if we are even going to take the deal.",
+			"startMs": 384264,
+			"endMs": 395520,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "王律師",
+			"text": "... 了解.",
+			"startMs": 395520,
+			"endMs": 396864,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "王律師",
+			"text": "我先 hop off. 你們兩個聊. 任何時候 call me. 我這邊到台灣時間早上四點都在線上.",
+			"startMs": 396864,
+			"endMs": 405480,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "謝謝,王律師.",
+			"startMs": 405480,
+			"endMs": 407664,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "Thanks, Albert.",
+			"startMs": 407664,
+			"endMs": 409056,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "王律師退出通話。畫面只剩美玲跟 Mark.",
+			"startMs": 409056,
+			"endMs": 413880
+		},
+		{
+			"speaker": "narrator",
+			"text": "Mark 看著她,看了很久。",
+			"startMs": 413880,
+			"endMs": 416880
+		},
+		{
+			"speaker": "Mark",
+			"text": "美玲. There's something you're not telling me.",
+			"startMs": 416880,
+			"endMs": 419640,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她沒有回。",
+			"startMs": 419640,
+			"endMs": 421440
+		},
+		{
+			"speaker": "Mark",
+			"text": "我們認識十五年. 我知道你累. But 累 不是這樣的累. 你今天的眼睛 — 你在躲我.",
+			"startMs": 421440,
+			"endMs": 431184,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 你看得出來?",
+			"startMs": 431184,
+			"endMs": 432984,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "我當然看得出來.",
+			"startMs": 432984,
+			"endMs": 435432,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她沉默了一會兒,然後從桌邊抽出一張黑白照片,舉到鏡頭前面。",
+			"startMs": 435432,
+			"endMs": 441816
+		},
+		{
+			"speaker": "narrator",
+			"text": "照片裡是一個老人,在客廳的沙發上,膝上放著一本書。他笑著看鏡頭,但眼睛有些渾濁。",
+			"startMs": 441816,
+			"endMs": 450768
+		},
+		{
+			"speaker": "美玲",
+			"text": "我爸. 上個月 diagnosed. Pancreatic cancer, stage 4. 醫生說 — 醫生說最多六個月.",
+			"startMs": 450768,
+			"endMs": 461232,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 美玲.",
+			"startMs": 461232,
+			"endMs": 462408,
+			"emotion": "fearful"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我爸八十一歲. 他從 — 我大學的時候開始,他就一個人住. 我媽走得早. 他一直跟我說,等我事業有成,他就搬到美國 Bay Area 跟我住. 七年了. 我每次回台灣都跟他說「再等等,公司穩了我就接你過去」. 結果現在他六個月.",
+			"startMs": 462408,
+			"endMs": 486912,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 我不知道.",
+			"startMs": 486912,
+			"endMs": 488928,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我沒跟任何人講. 連 Susan 都不知道. (Susan 是 WordFlow 的 COO.)",
+			"startMs": 488928,
+			"endMs": 495912,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 為什麼不跟我講.",
+			"startMs": 495912,
+			"endMs": 498264,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "美玲",
+			"text": "因為我知道你會說「take leave, take six months, the company will be fine.」 But 公司不會 fine. 我們明年要 raise Series D, 你跟我兩個都要全力以赴 — pitch, due diligence, road show, 全部. 我請假六個月,Hinode 也不會等. 然後 evaluation drop,我們最後 raise 三個億 instead of 五個億, dilute 多 4%. 我們是 founder, 我們的 stake 就是公司. 我不能在 D 之前消失.",
+			"startMs": 498264,
+			"endMs": 534576,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 但你又不想 D 之後才陪你爸. 因為太晚了.",
+			"startMs": 534576,
+			"endMs": 540600,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 對.",
+			"startMs": 540600,
+			"endMs": 541752,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "所以你要把公司賣了.",
+			"startMs": 541752,
+			"endMs": 544584,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 是.",
+			"startMs": 544584,
+			"endMs": 545832,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他閉上眼睛,深深地吸了一口氣。",
+			"startMs": 545832,
+			"endMs": 549624
+		},
+		{
+			"speaker": "Mark",
+			"text": "美玲. Why didn't you just tell me this two weeks ago when Hinode first called.",
+			"startMs": 549624,
+			"endMs": 555144,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "因為你會覺得我是用我爸 emotional blackmail you.",
+			"startMs": 555144,
+			"endMs": 559848,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... I would not have thought that.",
+			"startMs": 559848,
+			"endMs": 561672,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "你會的. 你會說你支持我,但你心裡會覺得「If we just push two more years, we IPO, 你爸也走得 with peace of mind 知道女兒成功.」But Mark, 那個邏輯不對. 我爸不是想看我成功. 我爸想看我.",
+			"startMs": 561672,
+			"endMs": 581592,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他沒回答。",
+			"startMs": 581592,
+			"endMs": 583464
+		},
+		{
+			"speaker": "narrator",
+			"text": "他低下頭,過了很久才再抬起來。",
+			"startMs": 583464,
+			"endMs": 587064
+		},
+		{
+			"speaker": "Mark",
+			"text": "... OK.",
+			"startMs": 587064,
+			"endMs": 588168,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... OK 什麼?",
+			"startMs": 588168,
+			"endMs": 589896,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "OK 我們接 Hinode. 我們 counter, 拿到 better terms. 然後我們 close. 你帶你爸去 Hawaii, 去他想去的地方. 你陪他六個月.",
+			"startMs": 589896,
+			"endMs": 603072,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 你 — 你確定?",
+			"startMs": 603072,
+			"endMs": 604536,
+			"emotion": "fearful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "我確定. WordFlow is a great company. 不是只有 IPO 才算成功. 我們 built something. 兩百個人有工作. 八十萬學生考多益進步. We did good. 那就夠了.",
+			"startMs": 604536,
+			"endMs": 621120,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "你真的這樣覺得?",
+			"startMs": 621120,
+			"endMs": 623208,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... I'll get there. I need a few days. But I'll get there.",
+			"startMs": 623208,
+			"endMs": 627024,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "Mark. 對不起.",
+			"startMs": 627024,
+			"endMs": 629688,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "別道歉. 美玲, You spent seven years 跟我一起 build this thing. 現在你需要花六個月跟你爸. 那是天經地義. 我不是 — I'm not going to make this harder than it has to be.",
+			"startMs": 629688,
+			"endMs": 645192,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她不哭了。從她坐下來開始,她其實一直在憋。但這時候她不哭了 — 她整個人鬆下來。",
+			"startMs": 645192,
+			"endMs": 653664
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 謝謝.",
+			"startMs": 653664,
+			"endMs": 654912,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... 我問你一件事.",
+			"startMs": 654912,
+			"endMs": 657168,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "美玲",
+			"text": "你說.",
+			"startMs": 657168,
+			"endMs": 658368,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "Hinode close 之後,我們兩個 retain 多少 board seats?",
+			"startMs": 658368,
+			"endMs": 663048,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "你會看 term sheet 嗎? 我們各有一個 board observer seat,加 vesting period 兩年.",
+			"startMs": 663048,
+			"endMs": 670128,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "所以我們兩個 technically 還會 — 還會繼續看公司怎麼走.",
+			"startMs": 670128,
+			"endMs": 675864,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "對.",
+			"startMs": 675864,
+			"endMs": 676920,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "那我會繼續看. 我會看 Hinode 怎麼搞我們的 product. 等他們搞壞了 — they always 搞壞 — 我就出來再做一個. 美玲, 你六個月以後如果想加入我,you have a seat. Always.",
+			"startMs": 676920,
+			"endMs": 693576,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 你還沒做完一個 startup, 已經在計畫下一個了.",
+			"startMs": 693576,
+			"endMs": 698016,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "That's the job.",
+			"startMs": 698016,
+			"endMs": 699072,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她笑了。她已經很久沒有真正笑過了。她的臉在螢幕的光裡看起來疲憊,但放鬆。",
+			"startMs": 699072,
+			"endMs": 707952
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 好. 我跟王律師講, 我們 counter. Target 兩億八, immediate vesting, 改 earn-out conditions.",
+			"startMs": 707952,
+			"endMs": 715968,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "Aggressive but reasonable.",
+			"startMs": 715968,
+			"endMs": 718200,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "我們明天 nine PM Pacific call 一次,過 details.",
+			"startMs": 718200,
+			"endMs": 722952,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "OK. 美玲 —",
+			"startMs": 722952,
+			"endMs": 724848,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "嗯?",
+			"startMs": 724848,
+			"endMs": 725880,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mark",
+			"text": "Give your 爸 my regards. 跟他說 — 跟他說 thank you for raising the person who built this with me.",
+			"startMs": 725880,
+			"endMs": 732528,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "... 我會跟他講.",
+			"startMs": 732528,
+			"endMs": 734400,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mark",
+			"text": "... Goodnight, 美玲.",
+			"startMs": 734400,
+			"endMs": 736560,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "美玲",
+			"text": "晚安,Mark.",
+			"startMs": 736560,
+			"endMs": 738360,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她按下了結束通話。",
+			"startMs": 738360,
+			"endMs": 740952
+		},
+		{
+			"speaker": "narrator",
+			"text": "畫面變黑。十一樓的玻璃倒映她的臉。她坐在椅子上,沒有起來。她看著桌上爸爸的照片,看了很久。然後她拿起來,放進皮包裡。",
+			"startMs": 740952,
+			"endMs": 754560
+		},
+		{
+			"speaker": "narrator",
+			"text": "她關上電腦,穿外套,離開辦公室。",
+			"startMs": 754560,
+			"endMs": 758664
+		},
+		{
+			"speaker": "narrator",
+			"text": "她明天早上要打給她爸。她要跟他說:「爸,我下個禮拜搬回去陪你。我請了長假。」",
+			"startMs": 758664,
+			"endMs": 767280
+		},
+		{
+			"speaker": "narrator",
+			"text": "她沒有跟爸提過 Hinode 的事。她爸這輩子也不會懂什麼是 term sheet,什麼是 earn-out. 對她爸來講,只有一件事重要 — 女兒回來了。",
+			"startMs": 767280,
+			"endMs": 778680
+		},
+		{
+			"speaker": "narrator",
+			"text": "那就夠了。",
+			"startMs": 778680,
+			"endMs": 780528
+		}
+	]
+}
