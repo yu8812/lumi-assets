@@ -5,12 +5,13 @@
 	"cast": {
 		"narrator": "zh-CN-YunjianNeural",
 		"玄狐": "zh-CN-YunxiNeural",
-		"小蘭": "zh-CN-XiaoyiNeural",
+		"小蘭": "zh-CN-XiaoxiaoNeural",
 		"老道": "zh-CN-YunyangNeural",
-		"Sister Margaret": "en-GB-LibbyNeural"
+		"拐子": "zh-CN-YunxiaNeural",
+		"Mrs Aubrey": "en-GB-SoniaNeural"
 	},
 	"audio": "/audio/v2/short-stories/the-fox-and-the-girl.mp3",
-	"durationMs": 857280,
+	"durationMs": 1409640,
 	"segments": [
 		{
 			"speaker": "narrator",
@@ -20,744 +21,1346 @@
 		},
 		{
 			"speaker": "narrator",
-			"text": "小蘭只有七歲。她蹲在村口溪邊洗一條舊衣裳——是她娘的。她娘三天前去世。她爹去年就走了。村裡人說可惜這孩子命硬,沒人願意接她回家養。",
+			"text": "小蘭七歲。父親去年因傷寒病死,母親三天前也去了。村裡人說,這孩子命太硬,先剋父後剋母,沒人敢養。",
 			"startMs": 10488,
-			"endMs": 25392
+			"endMs": 21912
 		},
 		{
 			"speaker": "narrator",
-			"text": "那天她洗著洗著,手凍得發紫。她想,如果她也凍死了,大概就能去見爹娘了。",
-			"startMs": 25392,
-			"endMs": 33696
+			"text": "偏偏她也不哭。",
+			"startMs": 21912,
+			"endMs": 24120
 		},
 		{
 			"speaker": "narrator",
-			"text": "就在這個時候,身後傳來一個很輕、很溫的聲音。",
-			"startMs": 33696,
-			"endMs": 38856
-		},
-		{
-			"speaker": "玄狐",
-			"text": "小妹妹,你的手都紅了。",
-			"startMs": 38856,
-			"endMs": 42048,
-			"emotion": "warm"
+			"text": "她娘剛入土的那天下午,她回到院子裡,把娘剩下的衣服一件一件疊好,放進舊木箱,然後拿出半碗冷粥,自己吃完了。村婦在門外偷看,以為她要哭,等了半天沒等到。後來村裡人傳,那孩子是個小妖精,看你一眼能讓你晚上做惡夢。",
+			"startMs": 24120,
+			"endMs": 46008
 		},
 		{
 			"speaker": "narrator",
-			"text": "她回頭。一個白衣的年輕男子站在岸邊,頭髮披散在肩上,袖口繡著淡淡的桂花紋。他蹲下來,讓自己跟她視線齊平。他笑起來的時候,眼角微微上揚,像狐狸。",
-			"startMs": 42048,
-			"endMs": 58464
+			"text": "村口的小孩們最先動手。",
+			"startMs": 46008,
+			"endMs": 49224
+		},
+		{
+			"speaker": "narrator",
+			"text": "一個十一歲的男孩,父親去年也死於傷寒。他堅信是小蘭的家「沖」走了他爹。他帶著兩個跟班,把小蘭堵在桑樹下,塞了一把泥巴到她嘴裡。",
+			"startMs": 49224,
+			"endMs": 62232
 		},
 		{
 			"speaker": "小蘭",
-			"text": "你 — 你是誰?",
-			"startMs": 58464,
-			"endMs": 60072,
-			"emotion": "fearful"
+			"text": "你弄完了嗎?",
+			"startMs": 62232,
+			"endMs": 63840,
+			"emotion": "peaceful"
 		},
 		{
-			"speaker": "玄狐",
-			"text": "我是這附近的人。看你一個人在這裡,有點不放心。你家裡還有誰?",
-			"startMs": 60072,
-			"endMs": 66744,
+			"speaker": "narrator",
+			"text": "她吐掉泥巴,聲音平平的,沒有一絲委屈。",
+			"startMs": 63840,
+			"endMs": 68592
+		},
+		{
+			"speaker": "narrator",
+			"text": "男孩愣住了。其中一個跟班動搖了,後退了半步。",
+			"startMs": 68592,
+			"endMs": 74112
+		},
+		{
+			"speaker": "小蘭",
+			"text": "弄完了我要走了。我還沒吃飯。",
+			"startMs": 74112,
+			"endMs": 77880,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "男孩惱羞成怒,撿起一塊石頭朝她肩膀砸下去。石頭擦過她耳邊,落在地上。她揉了揉耳朵,看了他一眼,然後走開。",
+			"startMs": 77880,
+			"endMs": 89664
+		},
+		{
+			"speaker": "narrator",
+			"text": "那一眼,男孩記了一輩子。後來他做了什麼壞事,夜裡都會夢見那雙眼睛,像井水一樣,看著他。",
+			"startMs": 89664,
+			"endMs": 99240
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭走到村口的溪邊,坐下來,把腳泡進水裡。她在想,接下來該怎麼辦。",
+			"startMs": 99240,
+			"endMs": 107184
+		},
+		{
+			"speaker": "narrator",
+			"text": "事情就是這時候出的。",
+			"startMs": 107184,
+			"endMs": 109944
+		},
+		{
+			"speaker": "narrator",
+			"text": "那年北方有一夥人,專從鄉下收孤兒,送到南方賣到妓寨或地主家當奴婢。他們有公文,有關係,連縣老爺都睜一隻眼閉一隻眼。",
+			"startMs": 109944,
+			"endMs": 122376
+		},
+		{
+			"speaker": "narrator",
+			"text": "這天輪到桂溪村。一個五十多歲的男人,牽著一頭騾子,慢慢走到溪邊。他笑著,從袖子裡拿出一塊麥芽糖。",
+			"startMs": 122376,
+			"endMs": 133512
+		},
+		{
+			"speaker": "拐子",
+			"text": "小妹妹,要吃糖嗎?",
+			"startMs": 133512,
+			"endMs": 136296,
+			"emotion": "friendly"
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭看了他一眼,沒應。",
+			"startMs": 136296,
+			"endMs": 139296
+		},
+		{
+			"speaker": "拐子",
+			"text": "你家裡還有人嗎?",
+			"startMs": 139296,
+			"endMs": 141480,
 			"emotion": "friendly"
 		},
 		{
 			"speaker": "小蘭",
-			"text": "媽媽前幾天走了。爹爹去年就走了。",
-			"startMs": 66744,
-			"endMs": 71256,
-			"emotion": "sad"
+			"text": "沒有了。",
+			"startMs": 141480,
+			"endMs": 142848
 		},
 		{
-			"speaker": "narrator",
-			"text": "玄狐沉默了片刻,從袖子裡拿出一塊還溫熱的米糕。米糕用油紙包著,他剝開,蹲下來遞給她。",
-			"startMs": 71256,
-			"endMs": 80856
-		},
-		{
-			"speaker": "玄狐",
-			"text": "先吃。吃完了,跟我走。我家在後山,有空房,有米。你若願意,就當我是哥哥。若不願意,我送你到鎮上的善堂,那裡有飯吃。",
-			"startMs": 80856,
-			"endMs": 95376,
-			"emotion": "warm"
-		},
-		{
-			"speaker": "小蘭",
-			"text": "為什麼 — 為什麼要對我這麼好?",
-			"startMs": 95376,
-			"endMs": 98688,
-			"emotion": "fearful"
-		},
-		{
-			"speaker": "玄狐",
-			"text": "因為你的手太冷了。哥哥看不下去。沒有別的原因。",
-			"startMs": 98688,
-			"endMs": 103872,
+			"speaker": "拐子",
+			"text": "那跟叔叔走吧。南方暖和,有飯吃,有人疼你。我有個朋友家裡缺一個小女兒。",
+			"startMs": 142848,
+			"endMs": 150768,
 			"emotion": "cheerful"
 		},
 		{
 			"speaker": "narrator",
-			"text": "他說完伸出右手,輕輕碰了一下她的手心。一股暖意從她的手往上爬,一直到她的肩膀,連耳朵都熱起來。她不哭了。她不知道為什麼自己不哭了,只覺得這個哥哥的手好暖。",
-			"startMs": 103872,
-			"endMs": 120000
+			"text": "小蘭緩慢地站起來,擦乾腳。她沒哭,沒抗拒,只是看著他,看了很久。",
+			"startMs": 150768,
+			"endMs": 158808
+		},
+		{
+			"speaker": "小蘭",
+			"text": "你不是好人。",
+			"startMs": 158808,
+			"endMs": 160416,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "拐子",
+			"text": "... 你說什麼?",
+			"startMs": 160416,
+			"endMs": 162216,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "小蘭",
+			"text": "你眼睛裡有死人。我看得出來。",
+			"startMs": 162216,
+			"endMs": 165720,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "拐子的臉色變了。他一把抓住她的手腕,拉得很用力。",
+			"startMs": 165720,
+			"endMs": 171384
+		},
+		{
+			"speaker": "拐子",
+			"text": "小丫頭片子,跟我廢什麼話。走!",
+			"startMs": 171384,
+			"endMs": 175608,
+			"emotion": "angry"
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭沒掙扎。她讓他拉著她走了兩步,然後輕聲說了一句。",
+			"startMs": 175608,
+			"endMs": 181800
+		},
+		{
+			"speaker": "小蘭",
+			"text": "你後面那個人,你看了嗎。",
+			"startMs": 181800,
+			"endMs": 184392,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "拐子下意識回頭。",
+			"startMs": 184392,
+			"endMs": 186720
+		},
+		{
+			"speaker": "narrator",
+			"text": "身後三步遠,站著一個白衣的年輕男子。",
+			"startMs": 186720,
+			"endMs": 191160
+		},
+		{
+			"speaker": "narrator",
+			"text": "他不過二十出頭的模樣,鬢角有一綹紅色,袖口繡著淡淡的桂花紋。他並不高大,反而瘦,可是站在那裡,風似乎都繞著他走。他笑著,眼角微微上揚,像狐狸。",
+			"startMs": 191160,
+			"endMs": 206856
+		},
+		{
+			"speaker": "玄狐",
+			"text": "這位兄台,這溪邊是村裡的,孩子也是村裡的。你拉著她去哪兒?",
+			"startMs": 206856,
+			"endMs": 213792,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "拐子",
+			"text": "... 關你什麼事?",
+			"startMs": 213792,
+			"endMs": 215808,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "本來不關。但你長得有點不順眼,我想多管一管。",
+			"startMs": 215808,
+			"endMs": 220944,
+			"emotion": "friendly"
+		},
+		{
+			"speaker": "narrator",
+			"text": "拐子放開了小蘭的手,從腰間抽出一把短刀。他在這行幹了二十年,什麼樣的人沒見過。一個瘦書生,他不放在眼裡。",
+			"startMs": 220944,
+			"endMs": 232536
+		},
+		{
+			"speaker": "拐子",
+			"text": "找死!",
+			"startMs": 232536,
+			"endMs": 234120,
+			"emotion": "angry"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他撲過去。",
+			"startMs": 234120,
+			"endMs": 235920
+		},
+		{
+			"speaker": "narrator",
+			"text": "玄狐沒有動。他只是抬起右手,輕輕地——也只是輕輕地——彈了一下手指。",
+			"startMs": 235920,
+			"endMs": 243336
+		},
+		{
+			"speaker": "narrator",
+			"text": "拐子的腳步突然停了。他的眼睛慢慢地、慢慢地睜大,看著前方空無一物的地方。然後他的臉,從憤怒,變成了驚恐,又變成了哀求。",
+			"startMs": 243336,
+			"endMs": 256560
+		},
+		{
+			"speaker": "拐子",
+			"text": "... 娘?",
+			"startMs": 256560,
+			"endMs": 257976,
+			"emotion": "terrified"
+		},
+		{
+			"speaker": "拐子",
+			"text": "... 娘,你怎麼在這?... 我 — 我沒有 — 我那年沒有 — 我不是故意把你關在屋裡的 — 你別這樣看我 — 娘 —",
+			"startMs": 257976,
+			"endMs": 266088,
+			"emotion": "terrified"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他一邊倒退,一邊喃喃,手裡的刀掉在地上。他從泥地上爬起來,連騾子都不要了,瘋了一樣朝山的另一邊跑去。",
+			"startMs": 266088,
+			"endMs": 276672
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭看著他跑遠了,看了好一會兒,然後轉頭看玄狐。",
+			"startMs": 276672,
+			"endMs": 282288
+		},
+		{
+			"speaker": "小蘭",
+			"text": "你不是普通人。",
+			"startMs": 282288,
+			"endMs": 284088,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "你不怕?",
+			"startMs": 284088,
+			"endMs": 285696,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "小蘭",
+			"text": "怕了也沒用。",
+			"startMs": 285696,
+			"endMs": 287376,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "玄狐笑了。他蹲下來,讓自己跟她視線齊平。",
+			"startMs": 287376,
+			"endMs": 292632
+		},
+		{
+			"speaker": "玄狐",
+			"text": "我活了八百年,還是第一次,被一個七歲的小妹妹這樣回答。",
+			"startMs": 292632,
+			"endMs": 298296,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他從袖子裡拿出一塊還溫熱的米糕,剝開油紙,遞給她。",
+			"startMs": 298296,
+			"endMs": 304056
+		},
+		{
+			"speaker": "玄狐",
+			"text": "先吃。吃完了,跟我走。我家在後山,有空房,有米。你願意,就當我是哥哥。不願意,我送你去鎮上的善堂。",
+			"startMs": 304056,
+			"endMs": 316248,
+			"emotion": "friendly"
+		},
+		{
+			"speaker": "小蘭",
+			"text": "為什麼要對我這麼好?",
+			"startMs": 316248,
+			"endMs": 318672,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "因為剛才那個人,看你眼裡,跟看別的小孩眼裡不一樣。",
+			"startMs": 318672,
+			"endMs": 323904,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他略停了一下。",
+			"startMs": 323904,
+			"endMs": 325992
+		},
+		{
+			"speaker": "玄狐",
+			"text": "他怕你。一個拐了二十年小孩的老手,怕一個七歲的小女孩。我見過幾個跟你差不多的孩子,他們長大後,都很乾淨。",
+			"startMs": 325992,
+			"endMs": 336840,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "小蘭",
+			"text": "... 乾淨?",
+			"startMs": 336840,
+			"endMs": 338112
+		},
+		{
+			"speaker": "玄狐",
+			"text": "不沾髒事的意思。你會懂的。",
+			"startMs": 338112,
+			"endMs": 341640,
+			"emotion": "cheerful"
 		},
 		{
 			"speaker": "narrator",
 			"text": "她跟著他走了。",
-			"startMs": 120000,
-			"endMs": 122184
+			"startMs": 341640,
+			"endMs": 343824
 		},
 		{
 			"speaker": "narrator",
 			"text": "之後的十年,村裡人慢慢發現了一些奇怪的事。",
-			"startMs": 122184,
-			"endMs": 126768
+			"startMs": 343824,
+			"endMs": 348408
 		},
 		{
 			"speaker": "narrator",
-			"text": "小蘭住進後山的那一年,有夥強盜從北邊下來,專搶秋收的村子。鄰村被洗了三戶,死了五個人。輪到桂溪村的時候,強盜走到村口居然集體迷了路,在山裡轉了三天三夜,最後一個個哭著回頭,連手裡的刀都丟了。村裡人都說是祖墳冒青煙。沒人知道,那三天三夜的山霧,是後山有人作的法。",
-			"startMs": 126768,
-			"endMs": 155112
+			"text": "小蘭住進後山的第一年,有一夥北邊下來的強盜想搶秋收的村子。鄰村被洗了三戶。輪到桂溪村,強盜在山裡迷了路,轉了三天三夜,夜裡見鬼,白天見影,最後一個個哭著跑回頭。後來查,有兩個盜匪在山道上撞了崖,死狀詭異。",
+			"startMs": 348408,
+			"endMs": 371088
 		},
 		{
 			"speaker": "narrator",
-			"text": "小蘭住進後山的第二年,一個寡婦的獨子發了高燒,鎮上的郎中說救不活。寡婦半夜跑到後山求見「小蘭的哥哥」。她跪在門口磕了三十個頭,額頭都磕青了。第二天清晨,孩子的高燒退了。",
-			"startMs": 155112,
-			"endMs": 173592
+			"text": "第三年,鎮上的師爺向幾戶人家收「保安費」。那是他自己編的名目。一個月後他做了個夢,夢見一隻金色的狐狸坐在他床邊,跟他講他十五年前在汝州做的事。第二天他到衙門,把貪墨的銀子全部交出,辭了官,連夜離開。一個月後他在外地客棧上吊。",
+			"startMs": 371088,
+			"endMs": 394920
 		},
 		{
 			"speaker": "narrator",
-			"text": "小蘭住進後山的第三年、第四年、第五年。年年都有這樣的事。乾旱那年,小蘭家後面那塊地長得最好。冰雹那年,桂溪村的果樹只壞了三棵。村裡人都說,那個帶大小蘭的「哥哥」一定不是凡人。但她的哥哥從不見外人,只在月圓的夜裡,會被人遠遠看見,獨自走在後山的桂花林裡。",
-			"startMs": 173592,
-			"endMs": 201024
+			"text": "第五年,鄰村發生了三起女童失蹤,屍體找不到。沒人查得出兇手。可是有天清晨,一個本地的屠戶在後山墜崖。村裡人都說他是去打獵失足。只有他妻子知道,他出門那天什麼都沒帶,只說「有人喊他」。",
+			"startMs": 394920,
+			"endMs": 415272
 		},
 		{
 			"speaker": "narrator",
-			"text": "小蘭十二歲那年的中秋,她半夜被一陣風驚醒。她從窗戶看出去,看見哥哥站在桂花樹下,頭微微低著。",
-			"startMs": 201024,
-			"endMs": 211248
+			"text": "第七年,村東頭一戶人家的男人經常打老婆。一天他坐在飯桌上,突然臉色發白,飯都吃不下去。從那天起,他變得沉默,連話都不太說,夜裡常常抱頭哭。他的妻子身上再沒有新的傷。",
+			"startMs": 415272,
+			"endMs": 434160
 		},
 		{
 			"speaker": "narrator",
-			"text": "月光特別亮。她看見哥哥的影子,不太對。影子的後面,有一條很長很長的、毛茸茸的尾巴。",
-			"startMs": 211248,
-			"endMs": 221256
+			"text": "村裡人都說,是「小蘭的福分大」,所以村子平安。沒人知道,真正的原因,住在後山。",
+			"startMs": 434160,
+			"endMs": 442608
+		},
+		{
+			"speaker": "narrator",
+			"text": "但有些事是藏不住的。",
+			"startMs": 442608,
+			"endMs": 445248
+		},
+		{
+			"speaker": "narrator",
+			"text": "那個師爺死了之後,他在外地的兒子翻他的遺物,看到一封寫了一半的信:「夢中見一狐,知我前事,字字皆實。此世已無處可逃。父留書,訣別。」這個兒子做生意有路子,把這封信託人送到了京城白雲觀。",
+			"startMs": 445248,
+			"endMs": 465216
+		},
+		{
+			"speaker": "narrator",
+			"text": "道士接到信的時候,看了很久。然後他寫了一封回信給師爺的兒子:「請來京城面談。」",
+			"startMs": 465216,
+			"endMs": 473664
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭十二歲那年的中秋,她半夜被一陣風驚醒。",
+			"startMs": 473664,
+			"endMs": 478512
+		},
+		{
+			"speaker": "narrator",
+			"text": "她從窗戶看出去,看見哥哥站在桂花樹下,頭微微低著。月光特別亮。她看見哥哥的影子。影子的後面,有三條很長很長的、毛茸茸的尾巴。",
+			"startMs": 478512,
+			"endMs": 493248
 		},
 		{
 			"speaker": "narrator",
 			"text": "她沒有出聲。她坐在窗邊,看了很久。然後她回到床上,把被子拉到下巴,閉上眼睛。",
-			"startMs": 221256,
-			"endMs": 230496
+			"startMs": 493248,
+			"endMs": 502488
 		},
 		{
 			"speaker": "小蘭",
 			"text": "哥哥就是哥哥。是什麼都沒關係。",
-			"startMs": 230496,
-			"endMs": 234576,
+			"startMs": 502488,
+			"endMs": 506568,
 			"emotion": "warm"
 		},
 		{
 			"speaker": "narrator",
-			"text": "她小聲對自己說。第二天早上,她照樣叫他哥哥,跟他一起喝粥。她沒有問他任何問題。她以為,只要她不問,他就會永遠在這裡。",
-			"startMs": 234576,
-			"endMs": 247368
+			"text": "她小聲對自己說。她沒有打算告訴任何人,從來沒有。",
+			"startMs": 506568,
+			"endMs": 512400
 		},
 		{
 			"speaker": "narrator",
 			"text": "小蘭十七歲那年的春末,鎮上來了兩個外鄉人。",
-			"startMs": 247368,
-			"endMs": 252192
+			"startMs": 512400,
+			"endMs": 517224
 		},
 		{
 			"speaker": "narrator",
-			"text": "一個是六十多歲的中國老道,身上披著舊袈裟,腰間佩著一根桃木劍。另一個是英國女人,穿黑色修女服,腰間掛著一個十字架,手裡卻拿著一卷古文,封面寫著燙金的拉丁字。",
-			"startMs": 252192,
-			"endMs": 268560
+			"text": "一個是六十多歲的中國老道,身上披著舊袈裟,腰間佩著一根桃木劍。另一個是英國女人,四十多歲,穿黑色長裙,腰間掛著一條銀鏈,鏈子末端是一個鎖著的木盒。她手裡拿著一卷紙,翻著看。",
+			"startMs": 517224,
+			"endMs": 535944
 		},
 		{
 			"speaker": "narrator",
 			"text": "他們在鎮口的茶寮坐了一整個下午。茶喝了三壺,日頭斜了,老道才開口。",
-			"startMs": 268560,
-			"endMs": 276312
+			"startMs": 535944,
+			"endMs": 543696
 		},
 		{
 			"speaker": "老道",
-			"text": "Sister Margaret,我看了三天。這裡確實有「東西」。但... how do you say... 他沒害過人。He did not... 害人. 不是 evil. 是 good.",
-			"startMs": 276312,
-			"endMs": 289728,
+			"text": "Mrs Aubrey,我看了三天。這裡確實有「東西」。但... how do you say... 他不是 evil. He has not... 害人. 不害人。Just... 異.",
+			"startMs": 543696,
+			"endMs": 557976,
 			"emotion": "serious"
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "Master Wu, I have heard this argument many times before. A creature does not need to harm in order to be a threat. He has bent the natural order. The villagers no longer pray for rain — they wait for the girl to walk past the field.",
-			"startMs": 289728,
-			"endMs": 307848,
+			"speaker": "Mrs Aubrey",
+			"text": "Master Wu, I have heard this argument before. In London, in Cairo, in Calcutta. A creature like this always begins with kindness. They are not human. They cannot remain inside a human society without bending it.",
+			"startMs": 557976,
+			"endMs": 574368,
 			"emotion": "serious"
 		},
 		{
 			"speaker": "老道",
-			"text": "你說得 — 你說得對... 但 — 但你要曉得... this kind of 狐... 不是 you know,不是 ghost,不是 demon. He is... 怎麼說... He is 異類. Different. 不是 evil. Just different.",
-			"startMs": 307848,
-			"endMs": 324600,
+			"text": "你說得 — 你說得對... 但這隻 — this 狐 — he is different. 他活了八百年,從沒收徒,從沒害人。 He found an 孤兒,養大她。Like a brother.",
+			"startMs": 574368,
+			"endMs": 587832,
 			"emotion": "somber"
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "I know, Master Wu. I knew before I left London. I have lived in this country twenty years. I have seen creatures like him before. They begin with kindness. They always begin with kindness. But the natural order cannot be broken without cost. Someone always pays. If not the village, then the girl herself.",
-			"startMs": 324600,
-			"endMs": 355008,
+			"speaker": "Mrs Aubrey",
+			"text": "And in the next village, three girls are missing, and a butcher fell from a cliff. And in this village, a corrupt steward hanged himself after a dream. He is not just protecting the orphan. He is making judgments. He is killing.",
+			"startMs": 587832,
+			"endMs": 604824,
 			"emotion": "sorrowful"
 		},
 		{
 			"speaker": "老道",
-			"text": "... 是。可能你說得對。",
-			"startMs": 355008,
-			"endMs": 357840,
+			"text": "... 是。",
+			"startMs": 604824,
+			"endMs": 605976,
 			"emotion": "somber"
 		},
 		{
+			"speaker": "Mrs Aubrey",
+			"text": "That is the issue. Not what he is, but what he has done.",
+			"startMs": 605976,
+			"endMs": 610632,
+			"emotion": "serious"
+		},
+		{
 			"speaker": "narrator",
-			"text": "他低下頭,看著自己空了的茶碗。",
-			"startMs": 357840,
-			"endMs": 361464
+			"text": "老道沉默了很久。他從袖子裡拿出一個小布袋,打開,是一些乾的桂花。他放了一些在茶碗裡,看著它們慢慢沉下去。",
+			"startMs": 610632,
+			"endMs": 622176
 		},
 		{
 			"speaker": "老道",
-			"text": "不過,我們先看一看。觀察一兩天。我不想... 我不想 wrong. I do not want to be wrong.",
-			"startMs": 361464,
-			"endMs": 370128,
+			"text": "我們先看一看。觀察一兩天。我不想 — I do not want to be wrong.",
+			"startMs": 622176,
+			"endMs": 628320,
 			"emotion": "warm"
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "Of course. We watch first. We do nothing rash.",
-			"startMs": 370128,
-			"endMs": 376224,
+			"speaker": "Mrs Aubrey",
+			"text": "Of course. We watch first. And then we act.",
+			"startMs": 628320,
+			"endMs": 632688,
 			"emotion": "warm"
 		},
 		{
 			"speaker": "narrator",
-			"text": "第二天傍晚,他們在溪邊看見一個七歲的男孩跌進水裡。流水很急。男孩抓不到任何東西。",
-			"startMs": 376224,
-			"endMs": 385272
+			"text": "她從腰間打開那個木盒。盒子裡是一副舊塔羅牌,牌背是深綠色的星圖。她抽出一張,放在桌上。是「審判」 — Judgment。",
+			"startMs": 632688,
+			"endMs": 644688
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "The cards have been clear since I left England.",
+			"startMs": 644688,
+			"endMs": 648120,
+			"emotion": "somber"
 		},
 		{
 			"speaker": "narrator",
-			"text": "水面下有一個白色的影子,像一條巨大的魚——不是魚——把男孩托起來,送到岸邊。男孩咳了好幾口水,沒事了。岸邊空空的,什麼都沒有。",
-			"startMs": 385272,
-			"endMs": 398640
+			"text": "第二天傍晚,他們在村東頭看見了一件事。",
+			"startMs": 648120,
+			"endMs": 652680
 		},
 		{
 			"speaker": "narrator",
-			"text": "老道和 Sister Margaret 都在遠處看著。",
-			"startMs": 398640,
-			"endMs": 402600
+			"text": "那個曾經打老婆的男人,從家裡走出來,看見路邊有一個五歲的小孩在哭。他停下來,蹲下,問小孩怎麼了。小孩說餓。男人從口袋裡摸出兩個銅板,給了小孩,讓他去買饃饃吃。然後他繼續走。",
+			"startMs": 652680,
+			"endMs": 671760
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "You see what he did.",
-			"startMs": 402600,
-			"endMs": 405072,
+			"speaker": "narrator",
+			"text": "他走到拐角,身體突然僵住了。他看見了一個白衣的年輕男子,站在牆角,正看著他。",
+			"startMs": 671760,
+			"endMs": 680424
+		},
+		{
+			"speaker": "narrator",
+			"text": "玄狐什麼也沒做。他只是看著那男人,看了一會兒。然後微微點了點頭,像在說「不錯」,然後走開。",
+			"startMs": 680424,
+			"endMs": 690264
+		},
+		{
+			"speaker": "narrator",
+			"text": "男人在原地站了很久,然後深深地嘆了一口氣,擦了擦眼睛,回家了。",
+			"startMs": 690264,
+			"endMs": 697272
+		},
+		{
+			"speaker": "narrator",
+			"text": "老道和 Mrs Aubrey 在遠處的茶棚看著。",
+			"startMs": 697272,
+			"endMs": 701256
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "You see what I mean now. He is the judge. He decides who deserves what.",
+			"startMs": 701256,
+			"endMs": 707496,
 			"emotion": "somber"
 		},
 		{
 			"speaker": "老道",
-			"text": "是。我看見了。",
-			"startMs": 405072,
-			"endMs": 407664,
-			"emotion": "somber"
+			"text": "是。",
+			"startMs": 707496,
+			"endMs": 708672,
+			"emotion": "sorrowful"
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "And yet.",
-			"startMs": 407664,
-			"endMs": 409608,
+			"speaker": "Mrs Aubrey",
+			"text": "That is not a power that can be allowed to exist.",
+			"startMs": 708672,
+			"endMs": 712464,
 			"emotion": "sorrowful"
 		},
 		{
 			"speaker": "老道",
-			"text": "... and yet.",
-			"startMs": 409608,
-			"endMs": 411024,
+			"text": "... 即使他用得好?",
+			"startMs": 712464,
+			"endMs": 714480,
 			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "Especially because he uses it well. Master Wu, the road to ruin is always paved by good intentions. Today he punishes the wicked. Tomorrow his definition of「wicked」expands.",
+			"startMs": 714480,
+			"endMs": 729048,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "老道閉上眼睛。當他再睜開時,他的眼神變了。",
+			"startMs": 729048,
+			"endMs": 734640
+		},
+		{
+			"speaker": "老道",
+			"text": "... 我明白了。",
+			"startMs": 734640,
+			"endMs": 736176,
+			"emotion": "somber"
 		},
 		{
 			"speaker": "narrator",
 			"text": "第三天清晨,他們把人圍到了溪邊。",
-			"startMs": 411024,
-			"endMs": 414816
+			"startMs": 736176,
+			"endMs": 739968
 		},
 		{
 			"speaker": "narrator",
 			"text": "玄狐當時正蹲在岸邊,替一隻翅膀斷了的麻雀正骨。他抬頭看見兩人,沒有逃。他只是站起來,把麻雀放回草叢裡。",
-			"startMs": 414816,
-			"endMs": 426672
+			"startMs": 739968,
+			"endMs": 751824
 		},
 		{
 			"speaker": "玄狐",
 			"text": "你們來了。",
-			"startMs": 426672,
-			"endMs": 428520,
+			"startMs": 751824,
+			"endMs": 753672,
 			"emotion": "peaceful"
 		},
 		{
 			"speaker": "老道",
 			"text": "你早知道?",
-			"startMs": 428520,
-			"endMs": 430008,
+			"startMs": 753672,
+			"endMs": 755160,
 			"emotion": "serious"
 		},
 		{
 			"speaker": "玄狐",
 			"text": "昨天就感覺到了。我沒走。",
-			"startMs": 430008,
-			"endMs": 433608,
+			"startMs": 755160,
+			"endMs": 758760,
 			"emotion": "warm"
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "Why did you not run?",
-			"startMs": 433608,
-			"endMs": 435936,
+			"speaker": "Mrs Aubrey",
+			"text": "You did not run because of the girl?",
+			"startMs": 758760,
+			"endMs": 761352,
 			"emotion": "serious"
 		},
 		{
 			"speaker": "玄狐",
-			"text": "因為跑了,你們就會去找她。",
-			"startMs": 435936,
-			"endMs": 439056
+			"text": "你猜到了。",
+			"startMs": 761352,
+			"endMs": 763152
 		},
 		{
-			"speaker": "narrator",
-			"text": "他看了一眼小蘭家的方向。",
-			"startMs": 439056,
-			"endMs": 442008
+			"speaker": "Mrs Aubrey",
+			"text": "You understand we cannot leave you here.",
+			"startMs": 763152,
+			"endMs": 766128,
+			"emotion": "serious"
 		},
 		{
 			"speaker": "玄狐",
-			"text": "她不知道我是什麼。她以為我是她的哥哥。如果你們在這裡了結,她最多只是失去一個哥哥。她不會知道發生了什麼。",
-			"startMs": 442008,
-			"endMs": 452808
+			"text": "我懂。",
+			"startMs": 766128,
+			"endMs": 767832,
+			"emotion": "peaceful"
 		},
 		{
 			"speaker": "老道",
-			"text": "你 — 你都不反抗的?",
-			"startMs": 452808,
-			"endMs": 454896,
+			"text": "你 — 你不反抗?",
+			"startMs": 767832,
+			"endMs": 769536,
 			"emotion": "sorrowful"
 		},
 		{
 			"speaker": "玄狐",
-			"text": "我反抗,你們會傷得更重。我跑,小蘭會被你們追問。你們會發現她什麼都不知道,但這個村子已經有人懷疑她。你們離開以後,有些人會把氣出在她身上。",
-			"startMs": 454896,
-			"endMs": 470520,
+			"text": "我反抗,你們可能會傷得更重。我跑,小蘭會被你們追問。",
+			"startMs": 769536,
+			"endMs": 775920,
 			"emotion": "peaceful"
 		},
 		{
 			"speaker": "玄狐",
-			"text": "所以,讓我在這裡完。最乾淨。",
-			"startMs": 470520,
-			"endMs": 474672,
+			"text": "讓我在這裡完。最乾淨。",
+			"startMs": 775920,
+			"endMs": 779280,
 			"emotion": "warm"
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "You think we will be merciful.",
-			"startMs": 474672,
-			"endMs": 477408,
+			"speaker": "Mrs Aubrey",
+			"text": "And the men you have killed? Do they get to「end clean」 too?",
+			"startMs": 779280,
+			"endMs": 783600,
 			"emotion": "serious"
 		},
 		{
 			"speaker": "玄狐",
-			"text": "我知道你們會。你們不是壞人。",
-			"startMs": 477408,
-			"endMs": 480984,
+			"text": "... 不會。他們的死沒有那麼乾淨。",
+			"startMs": 783600,
+			"endMs": 788184,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "You admit it.",
+			"startMs": 788184,
+			"endMs": 789744,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "我承認。我除過十一個人。其中四個是強盜,三個是貪官,兩個是殺童犯,一個是綁架犯,一個是 — 一個是欺凌寡母的不孝子。我每一個都記得姓名。我可以一個一個給你們說。",
+			"startMs": 789744,
+			"endMs": 805824,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "老道",
+			"text": "... 你都記得?",
+			"startMs": 805824,
+			"endMs": 807528,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "我記得。我不是為了 — for fun. 是因為,我看見了,我手裡有辦法,而我不出手,他們會繼續害人。我沒有 — I did not enjoy 殺人。但我承認,是我做的。",
+			"startMs": 807528,
+			"endMs": 823608,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他向 Mrs Aubrey 微微鞠了一躬。",
+			"startMs": 823608,
+			"endMs": 826776
+		},
+		{
+			"speaker": "玄狐",
+			"text": "所以你來了。我懂。",
+			"startMs": 826776,
+			"endMs": 829872,
 			"emotion": "peaceful"
 		},
 		{
 			"speaker": "narrator",
-			"text": "老道閉了一下眼。當他再睜開的時候,他的眼神變了。",
-			"startMs": 480984,
-			"endMs": 486792
+			"text": "Mrs Aubrey 沉默了很久,然後從木盒裡抽出三張塔羅牌,放在岸邊的石頭上。",
+			"startMs": 829872,
+			"endMs": 837360
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "The Tower. Death. The Hierophant. The structure must break. The form must end. The judgment is fixed.",
+			"startMs": 837360,
+			"endMs": 847080,
+			"emotion": "serious"
 		},
 		{
 			"speaker": "老道",
 			"text": "... 對不起。",
-			"startMs": 486792,
-			"endMs": 488160,
+			"startMs": 847080,
+			"endMs": 848448,
 			"emotion": "serious"
 		},
 		{
 			"speaker": "narrator",
-			"text": "他從腰間抽出桃木劍。劍尖朝下,指著溪邊的泥土。Sister Margaret 翻開古文,開始用拉丁文低聲念誦。空氣裡突然多了一種像松脂、又像鐵腥的氣味。",
-			"startMs": 488160,
-			"endMs": 503088
+			"text": "他抽出桃木劍。Mrs Aubrey 把那三張牌往空中一拋。空氣裡突然多了一種像松脂、又像鐵腥的氣味。",
+			"startMs": 848448,
+			"endMs": 858528
 		},
 		{
 			"speaker": "narrator",
-			"text": "玄狐的身體微微一震。他的眼睛變了顏色 — 從黑色變成了金黃。他的指甲變長。他袖子裡飄出一條淡金的影子,在他身後逐漸成形 — 一條長長的、毛茸茸的尾巴。然後是第二條。第三條。",
-			"startMs": 503088,
-			"endMs": 522360
+			"text": "三張牌在半空中燃起淡藍色的火,變成三道光劍,直接朝玄狐刺去。",
+			"startMs": 858528,
+			"endMs": 865968
 		},
 		{
 			"speaker": "narrator",
-			"text": "他低下頭,輕輕嘆了一口氣。",
-			"startMs": 522360,
-			"endMs": 525648
+			"text": "玄狐袖子裡飛出一片金色的影子,擋住了第一道光。第二道擦過他的肩膀。第三道,他直接用左手接住,光劍在他掌心炸開,化成一團煙。",
+			"startMs": 865968,
+			"endMs": 879720
+		},
+		{
+			"speaker": "narrator",
+			"text": "玄狐的左手垂了下去,血順著指尖滴在岸邊的泥土上。",
+			"startMs": 879720,
+			"endMs": 885624
 		},
 		{
 			"speaker": "玄狐",
-			"text": "... 真的要動手嗎。",
-			"startMs": 525648,
-			"endMs": 528048,
-			"emotion": "sorrowful"
+			"text": "... 牌很厲害。",
+			"startMs": 885624,
+			"endMs": 887352,
+			"emotion": "angry"
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "This is only the Major Arcana. The Minor Arcana have not yet been drawn.",
+			"startMs": 887352,
+			"endMs": 892104,
+			"emotion": "urgent"
 		},
 		{
 			"speaker": "老道",
-			"text": "... 我已經決定了。",
-			"startMs": 528048,
-			"endMs": 530016,
+			"text": "玄狐!你 — 你能不能就 — 就停下!",
+			"startMs": 892104,
+			"endMs": 894552,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "你都動手了,你還叫我停?",
+			"startMs": 894552,
+			"endMs": 897552,
+			"emotion": "angry"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他踏前一步。腳下的溪水突然倒流,捲起一道水牆,擋在他與老道之間。水牆裡飛出三條金色的火蛇,撲向兩人。",
+			"startMs": 897552,
+			"endMs": 909432
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "The Empress.",
+			"startMs": 909432,
+			"endMs": 910680,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她從盒子裡抽出一張牌,牌面是一位女王坐在花叢中。牌一拋出,空氣裡生出無數荊棘,把三條火蛇纏住,慢慢勒緊。",
+			"startMs": 910680,
+			"endMs": 922536
+		},
+		{
+			"speaker": "narrator",
+			"text": "玄狐的右肩開始流血。但他笑了。",
+			"startMs": 922536,
+			"endMs": 927096
+		},
+		{
+			"speaker": "玄狐",
+			"text": "... 不錯。比我想像中還厲害。",
+			"startMs": 927096,
+			"endMs": 930552,
+			"emotion": "angry"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他袖子裡飛出三張黃色符咒。符咒化成三隻紙鳥,衝向 Mrs Aubrey。老道的桃木劍在空中畫了一個圈,把紙鳥拍落。",
+			"startMs": 930552,
+			"endMs": 942336
+		},
+		{
+			"speaker": "老道",
+			"text": "Mrs Aubrey, 後面!",
+			"startMs": 942336,
+			"endMs": 944352,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "就在這個時候,天突然黑了。",
+			"startMs": 944352,
+			"endMs": 947880
+		},
+		{
+			"speaker": "narrator",
+			"text": "不是雲遮日的那種黑,是一種深沉的、像井底的黑。空氣裡多了一種腥味,跟剛才的鐵腥不同,更腐爛、更老。",
+			"startMs": 947880,
+			"endMs": 959424
+		},
+		{
+			"speaker": "narrator",
+			"text": "從西邊的山林裡,飄出一群影子。",
+			"startMs": 959424,
+			"endMs": 963312
+		},
+		{
+			"speaker": "narrator",
+			"text": "他們不是人。他們有人的形狀,可是身體是透明的,五官扭曲。他們的眼睛是空的,卻直直地盯著老道。他們有七、八個,從樹影裡浮出來,像被某種東西召喚出來。",
+			"startMs": 963312,
+			"endMs": 979680
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "... Oh no.",
+			"startMs": 979680,
+			"endMs": 980688,
+			"emotion": "scared"
+		},
+		{
+			"speaker": "老道",
+			"text": "那是 — 那是什麼?",
+			"startMs": 980688,
+			"endMs": 982536,
+			"emotion": "fearful"
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "They followed the Major Arcana. They feed on judgment energy. They have been tracking me since Cairo. Master Wu, get back!",
+			"startMs": 982536,
+			"endMs": 990768,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "那群惡鬼撲向老道。老道揮舞桃木劍,可是那些影子根本不怕中國法器。他被打得倒退了三步,後背貼在岩石上。",
+			"startMs": 990768,
+			"endMs": 1002720
+		},
+		{
+			"speaker": "narrator",
+			"text": "Mrs Aubrey 急忙從盒子裡抽出一張牌 — 是 The Sun。可是牌剛拋出,一個惡鬼從側面撲上來,把她按倒在地。她的銀鏈被扯斷,木盒滾出去三步遠。",
+			"startMs": 1002720,
+			"endMs": 1016472
+		},
+		{
+			"speaker": "narrator",
+			"text": "就在這個時候,玄狐做了一件事。",
+			"startMs": 1016472,
+			"endMs": 1020264
+		},
+		{
+			"speaker": "narrator",
+			"text": "他撲上前,把那個壓住 Mrs Aubrey 的惡鬼一把抓起,扔到溪裡。",
+			"startMs": 1020264,
+			"endMs": 1026240
+		},
+		{
+			"speaker": "玄狐",
+			"text": "起來!你的牌!",
+			"startMs": 1026240,
+			"endMs": 1028400,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "Mrs Aubrey 愣了一下。",
+			"startMs": 1028400,
+			"endMs": 1030848
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "But — you —",
+			"startMs": 1030848,
+			"endMs": 1032024,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "快!你不出手,我們三個都死!",
+			"startMs": 1032024,
+			"endMs": 1035456,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她爬起來,撿起牌盒。",
+			"startMs": 1035456,
+			"endMs": 1038312
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "Master Wu! Stand together with the fox!",
+			"startMs": 1038312,
+			"endMs": 1041384,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "老道",
+			"text": "什麼?!",
+			"startMs": 1041384,
+			"endMs": 1042368,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "NOW!",
+			"startMs": 1042368,
+			"endMs": 1043064,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她抽出三張牌:The Sun、The Star、The World。三張牌在空中組成一個三角形,放出金色的光,把那群惡鬼往後逼。",
+			"startMs": 1043064,
+			"endMs": 1054104
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "玄狐, your illusions! 用幻術 — 讓他們看到太陽!",
+			"startMs": 1054104,
+			"endMs": 1055400,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "玄狐沒有問為什麼。他抬起雙手,在空中畫了一個圓。一輪虛假的太陽出現在桂花樹頂,光芒刺眼。那群惡鬼開始尖叫,身體在光裡逐漸融化。",
+			"startMs": 1055400,
+			"endMs": 1070088
+		},
+		{
+			"speaker": "老道",
+			"text": "我幫忙!",
+			"startMs": 1070088,
+			"endMs": 1071264,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他放下桃木劍,從袖子裡拿出一張黃色的「破煞」符,點燃,扔到溪邊。一道金光從符燒出來,跟玄狐的太陽連在一起,把惡鬼包圍。",
+			"startMs": 1071264,
+			"endMs": 1084416
+		},
+		{
+			"speaker": "narrator",
+			"text": "那群惡鬼掙扎了很久。最後,他們一個一個地化成黑色的煙,被風吹散。",
+			"startMs": 1084416,
+			"endMs": 1092000
+		},
+		{
+			"speaker": "narrator",
+			"text": "天又亮了。",
+			"startMs": 1092000,
+			"endMs": 1093920
+		},
+		{
+			"speaker": "narrator",
+			"text": "三個人站在溪邊,大口喘氣。",
+			"startMs": 1093920,
+			"endMs": 1097520
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "Are you both — are you alright?",
+			"startMs": 1097520,
+			"endMs": 1099512,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "老道",
+			"text": "... 我沒事。",
+			"startMs": 1099512,
+			"endMs": 1100856,
 			"emotion": "somber"
 		},
 		{
-			"speaker": "玄狐",
-			"text": "你決定的!不是我!不是小蘭!不是這條溪!",
-			"startMs": 530016,
-			"endMs": 534360,
-			"emotion": "angry"
+			"speaker": "narrator",
+			"text": "他們看向玄狐。",
+			"startMs": 1100856,
+			"endMs": 1103064
 		},
 		{
 			"speaker": "narrator",
-			"text": "他第一次提高聲音。岸邊的鳥全飛起來了。Sister Margaret 的拉丁文短暫地停了一下,但很快接續下去。",
-			"startMs": 534360,
-			"endMs": 544344
-		},
-		{
-			"speaker": "老道",
-			"text": "玄狐,you must... you must accept.",
-			"startMs": 544344,
-			"endMs": 547656,
-			"emotion": "stern"
+			"text": "玄狐站不穩。他的左手已經完全垂下,血順著手臂滴到地上。他的右肩有一道很深的口子,白衣已經被血染成了暗紅。他臉色蒼白,可是還在笑。",
+			"startMs": 1103064,
+			"endMs": 1117752
 		},
 		{
 			"speaker": "玄狐",
-			"text": "Accept 什麼!Accept 你們的「天理」?我救過的人比你殺過的妖還多!",
-			"startMs": 547656,
-			"endMs": 553296,
-			"emotion": "angry"
-		},
-		{
-			"speaker": "narrator",
-			"text": "他朝地上一指。腳下的溪水突然倒流,捲起一道水牆,擋在他與老道之間。",
-			"startMs": 553296,
-			"endMs": 561240
-		},
-		{
-			"speaker": "老道",
-			"text": "Sister, 快!",
-			"startMs": 561240,
-			"endMs": 562776,
-			"emotion": "urgent"
-		},
-		{
-			"speaker": "Sister Margaret",
-			"text": "In nomine Patris, et Filii, et Spiritus Sancti —",
-			"startMs": 562776,
-			"endMs": 566760,
-			"emotion": "urgent"
-		},
-		{
-			"speaker": "narrator",
-			"text": "她從口袋裡掏出一串黃銅鑰匙形狀的法器,扔向水牆。水牆在半空炸開,變成無數冰晶,像一場短暫的春雪。",
-			"startMs": 566760,
-			"endMs": 578040
-		},
-		{
-			"speaker": "narrator",
-			"text": "玄狐後退了三步。他的左肩開始流血。但他笑了。",
-			"startMs": 578040,
-			"endMs": 584112
-		},
-		{
-			"speaker": "玄狐",
-			"text": "... 好厲害啊。比我想像中還厲害。",
-			"startMs": 584112,
-			"endMs": 587736,
-			"emotion": "angry"
-		},
-		{
-			"speaker": "老道",
-			"text": "你 — 你能不能就 — 就讓我們了結!不要 — 不要這樣!",
-			"startMs": 587736,
-			"endMs": 591048,
-			"emotion": "urgent"
-		},
-		{
-			"speaker": "玄狐",
-			"text": "你都動手了,你還叫我配合?!",
-			"startMs": 591048,
-			"endMs": 594096,
-			"emotion": "angry"
-		},
-		{
-			"speaker": "narrator",
-			"text": "他袖子裡飛出三張黃紙符咒,化成三條火蛇,衝向老道。老道的桃木劍在空中畫了一個圈,把火蛇接住,壓進土裡。土地冒出青煙。",
-			"startMs": 594096,
-			"endMs": 607512
-		},
-		{
-			"speaker": "Sister Margaret",
-			"text": "Master Wu!",
-			"startMs": 607512,
-			"endMs": 609192,
-			"emotion": "urgent"
-		},
-		{
-			"speaker": "老道",
-			"text": "我沒事!繼續念!",
-			"startMs": 609192,
-			"endMs": 610992,
-			"emotion": "urgent"
-		},
-		{
-			"speaker": "narrator",
-			"text": "拉丁文又響起來。這次更急。空氣裡的鐵腥味變濃了。",
-			"startMs": 610992,
-			"endMs": 617568
-		},
-		{
-			"speaker": "narrator",
-			"text": "玄狐踉蹌了一下。他低頭看自己的左肩,血順著手臂滴在溪邊的泥土上,變成黑色的小水洼。",
-			"startMs": 617568,
-			"endMs": 627096
-		},
-		{
-			"speaker": "玄狐",
-			"text": "你們知不知道...",
-			"startMs": 627096,
-			"endMs": 629088,
-			"emotion": "angry"
-		},
-		{
-			"speaker": "narrator",
-			"text": "他抬頭。眼睛裡有金黃的火光。",
-			"startMs": 629088,
-			"endMs": 633096
-		},
-		{
-			"speaker": "玄狐",
-			"text": "你們知不知道我這十年,做了多少善事!",
-			"startMs": 633096,
-			"endMs": 637200,
-			"emotion": "angry"
-		},
-		{
-			"speaker": "老道",
-			"text": "... 我知道。",
-			"startMs": 637200,
-			"endMs": 638640,
-			"emotion": "sorrowful"
-		},
-		{
-			"speaker": "玄狐",
-			"text": "那你還要殺我?!",
-			"startMs": 638640,
-			"endMs": 640560,
-			"emotion": "angry"
-		},
-		{
-			"speaker": "老道",
-			"text": "... 對。",
-			"startMs": 640560,
-			"endMs": 641688,
-			"emotion": "sorrowful"
-		},
-		{
-			"speaker": "narrator",
-			"text": "他看著玄狐,聲音很輕。",
-			"startMs": 641688,
-			"endMs": 644688
-		},
-		{
-			"speaker": "老道",
-			"text": "... I know. I know what you have done. 我都看到了. But... 但 you are still 妖. 是「異類」。 You cannot stay. The world... the world cannot have both. 我們是道,你是異. 一山不容二虎. Even good 異 must... must go.",
-			"startMs": 644688,
-			"endMs": 665640,
-			"emotion": "sorrowful"
-		},
-		{
-			"speaker": "narrator",
-			"text": "玄狐看著他,看了很久。",
-			"startMs": 665640,
-			"endMs": 668976
-		},
-		{
-			"speaker": "narrator",
-			"text": "他笑了。但這次的笑很疲憊。",
-			"startMs": 668976,
-			"endMs": 672816
-		},
-		{
-			"speaker": "玄狐",
-			"text": "... 老頭,你的英文真的很爛。",
-			"startMs": 672816,
-			"endMs": 676944,
-			"emotion": "sorrowful"
-		},
-		{
-			"speaker": "老道",
-			"text": "... 我知道。",
-			"startMs": 676944,
-			"endMs": 678384,
-			"emotion": "sorrowful"
-		},
-		{
-			"speaker": "narrator",
-			"text": "玄狐閉上眼。他身後的三條金尾巴,慢慢縮了回去。他不再反抗。他知道反抗不過了 — 對方有兩個,有桃木劍,有拉丁咒,還有他從未見過的西方法器。他可以再撐二十分鐘,但那二十分鐘換來的可能是小蘭被連累。",
-			"startMs": 678384,
-			"endMs": 698928
-		},
-		{
-			"speaker": "玄狐",
-			"text": "... 還有事要拜託你們。",
-			"startMs": 698928,
-			"endMs": 701232,
+			"text": "... 你們沒事就好。",
+			"startMs": 1117752,
+			"endMs": 1119744,
 			"emotion": "peaceful"
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "Yes.",
-			"startMs": 701232,
-			"endMs": 702912,
+			"speaker": "Mrs Aubrey",
+			"text": "You saved us.",
+			"startMs": 1119744,
+			"endMs": 1121520,
 			"emotion": "sorrowful"
 		},
 		{
 			"speaker": "玄狐",
-			"text": "請告訴小蘭,我去南方了。生意忙,可能很久不回。請告訴她,不要等。",
-			"startMs": 702912,
-			"endMs": 711000,
-			"emotion": "warm"
-		},
-		{
-			"speaker": "玄狐",
-			"text": "還有 — 後山桂花林,西北角第三棵樹下,有一個小匣子,是她娘留給她的玉鐲。我這些年一直存著,沒給她,怕她小的時候弄丟。請替我交給她。",
-			"startMs": 711000,
-			"endMs": 725472,
-			"emotion": "warm"
+			"text": "順手而已。",
+			"startMs": 1121520,
+			"endMs": 1123368,
+			"emotion": "peaceful"
 		},
 		{
 			"speaker": "老道",
-			"text": "... 好。",
-			"startMs": 725472,
-			"endMs": 726648,
+			"text": "... 不是順手。你不救,我們兩個都活不了。",
+			"startMs": 1123368,
+			"endMs": 1128048,
 			"emotion": "sorrowful"
 		},
 		{
 			"speaker": "玄狐",
-			"text": "... 拜託了。",
-			"startMs": 726648,
-			"endMs": 728280,
+			"text": "那 — 那就當我這一輩子,最後一次出手吧。",
+			"startMs": 1128048,
+			"endMs": 1132584,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "You don't have to die. We can — we can talk to the temple. After what you just did —",
+			"startMs": 1132584,
+			"endMs": 1138056,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "... 不行。",
+			"startMs": 1138056,
+			"endMs": 1139640,
 			"emotion": "peaceful"
 		},
 		{
 			"speaker": "narrator",
-			"text": "老道舉起桃木劍。Sister Margaret 念完最後一句拉丁文。",
-			"startMs": 728280,
-			"endMs": 733872
+			"text": "他搖搖頭。",
+			"startMs": 1139640,
+			"endMs": 1141488
+		},
+		{
+			"speaker": "玄狐",
+			"text": "我殘了。我這條左手,再也接不上來。我殺人時用幻術,救人時也用幻術。可是我幻術的根,在這隻手裡。它斷了,我就沒辦法再守著她。",
+			"startMs": 1141488,
+			"endMs": 1156128,
+			"emotion": "peaceful"
 		},
 		{
 			"speaker": "narrator",
-			"text": "那一瞬間,溪邊的桂花樹全開了花,雖然不是時節。",
-			"startMs": 733872,
-			"endMs": 739128
+			"text": "他看了一眼小蘭家的方向。",
+			"startMs": 1156128,
+			"endMs": 1159080
+		},
+		{
+			"speaker": "玄狐",
+			"text": "她要過普通日子。她不能跟一個殘廢的妖怪過一輩子。她要結婚,生孩子,做茶寮的生意。她要被人看見是「小蘭」,不是「狐妖養大的小蘭」。",
+			"startMs": 1159080,
+			"endMs": 1172040,
+			"emotion": "warm"
 		},
 		{
 			"speaker": "narrator",
-			"text": "玄狐倒在岸邊的時候,他的影子很小,很淡,只剩一個普通男人的形狀,沒有尾巴,沒有金光。",
-			"startMs": 739128,
-			"endMs": 748368
+			"text": "他從腰間解下一個小小的香囊。那香囊是用淡黃色的綢子做的,上面繡了一朵小小的桂花。他把它遞給老道。",
+			"startMs": 1172040,
+			"endMs": 1183248
+		},
+		{
+			"speaker": "玄狐",
+			"text": "請你把這個給她。告訴她,我去南方了。生意忙,可能很久不回。請告訴她,不要等。",
+			"startMs": 1183248,
+			"endMs": 1192704,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "But —",
+			"startMs": 1192704,
+			"endMs": 1193736,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "告訴她,我希望她以後過好日子。Just one — 一個 — normal life. 一個普通的人生。",
+			"startMs": 1193736,
+			"endMs": 1201728,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他向兩人各鞠了一個躬。",
+			"startMs": 1201728,
+			"endMs": 1204488
+		},
+		{
+			"speaker": "玄狐",
+			"text": "今天有勞。下輩子若還是同道,我們再喝一杯。",
+			"startMs": 1204488,
+			"endMs": 1209480,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他轉身,慢慢地、慢慢地走向溪邊。每走一步,他的身形就淡一點。走到岸邊的時候,他蹲下來,把右手伸進溪水裡。",
+			"startMs": 1209480,
+			"endMs": 1221480
+		},
+		{
+			"speaker": "narrator",
+			"text": "然後他閉上眼睛。",
+			"startMs": 1221480,
+			"endMs": 1223904
+		},
+		{
+			"speaker": "narrator",
+			"text": "他的身體開始變化。白衣消失了,鬢角的紅色消失了。在原地,只剩下一隻三尾的白狐,毛色像新雪。它的左前腿已經不能動了。它在溪邊躺下,把頭枕在右前腿上,像睡著了一樣。",
+			"startMs": 1223904,
+			"endMs": 1242528
+		},
+		{
+			"speaker": "narrator",
+			"text": "它最後動了一下尾巴尖,然後就再也沒動。",
+			"startMs": 1242528,
+			"endMs": 1246800
+		},
+		{
+			"speaker": "narrator",
+			"text": "Mrs Aubrey 哭了。她從來沒有在任何任務中哭過。",
+			"startMs": 1246800,
+			"endMs": 1252128
+		},
+		{
+			"speaker": "Mrs Aubrey",
+			"text": "... I do not even know your name.",
+			"startMs": 1252128,
+			"endMs": 1254528,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "老道默默地走過去,撿起溪邊的白狐,把它放在岸邊的桂花樹下。他在地上鋪了一塊黃布,把白狐的身體放上去。",
+			"startMs": 1254528,
+			"endMs": 1265280
+		},
+		{
+			"speaker": "老道",
+			"text": "... 我們會把你埋好。",
+			"startMs": 1265280,
+			"endMs": 1267440,
+			"emotion": "sorrowful"
 		},
 		{
 			"speaker": "narrator",
 			"text": "小蘭那天晚上做了一個夢。她夢見她哥哥站在桂花林裡,笑著對她揮手,然後越走越遠,變成一道很淡很淡的金光,消失在山的後面。",
-			"startMs": 748368,
-			"endMs": 761496
+			"startMs": 1267440,
+			"endMs": 1280568
 		},
 		{
 			"speaker": "narrator",
-			"text": "她在夢裡哭了。她不知道為什麼哭。但她知道,她哥哥不會再回來了。",
-			"startMs": 761496,
-			"endMs": 768936
+			"text": "她在夢裡沒有哭。她從來不哭。",
+			"startMs": 1280568,
+			"endMs": 1284504
 		},
 		{
 			"speaker": "narrator",
-			"text": "她醒來時,枕頭濕了。窗外天還沒亮,門口卻已經有人在等她。",
-			"startMs": 768936,
-			"endMs": 776064
+			"text": "她醒來的時候,門口已經有人。是那個英國女人。她遞給小蘭一個小小的香囊,然後用很慢、很重的語氣說了一句話。",
+			"startMs": 1284504,
+			"endMs": 1296744
 		},
 		{
-			"speaker": "Sister Margaret",
-			"text": "Forgive me. I do not know how to say this in Chinese well enough.",
-			"startMs": 776064,
-			"endMs": 782400,
+			"speaker": "Mrs Aubrey",
+			"text": "Your brother. He has gone south. He told us — to ask you — not to wait. He wanted you to have... an ordinary life.",
+			"startMs": 1296744,
+			"endMs": 1306824,
 			"emotion": "sorrowful"
 		},
 		{
 			"speaker": "narrator",
-			"text": "她把一個小木匣子放在小蘭手裡。",
-			"startMs": 782400,
-			"endMs": 786024
-		},
-		{
-			"speaker": "Sister Margaret",
-			"text": "Your brother. He is gone. He told us to ask you... not to wait. He said... he said he loved you very much.",
-			"startMs": 786024,
-			"endMs": 797472,
-			"emotion": "sorrowful"
+			"text": "小蘭接過香囊。她看了很久。然後她把香囊放進貼身的衣袋裡,沒有打開。",
+			"startMs": 1306824,
+			"endMs": 1314768
 		},
 		{
 			"speaker": "narrator",
-			"text": "小蘭沒有說話。她看著匣子。她打開它。裡面是一只玉鐲,刻著兩個小字 — 是她娘的名字。她從未見過。",
-			"startMs": 797472,
-			"endMs": 809112
+			"text": "她謝了 Mrs Aubrey 一聲,然後關上門。",
+			"startMs": 1314768,
+			"endMs": 1318560
 		},
 		{
 			"speaker": "narrator",
-			"text": "她哭了一整個早上。她沒有問 Sister Margaret 任何問題。她不問,她就什麼都不用承認。",
-			"startMs": 809112,
-			"endMs": 817704
+			"text": "她坐在桌邊,看著窗外的桂花樹。她沒有哭。她從來不哭。",
+			"startMs": 1318560,
+			"endMs": 1325232
+		},
+		{
+			"speaker": "narrator",
+			"text": "但她坐了一整天,沒有起來。",
+			"startMs": 1325232,
+			"endMs": 1328472
 		},
 		{
 			"speaker": "narrator",
 			"text": "那一年她十七歲。",
-			"startMs": 817704,
-			"endMs": 820056
+			"startMs": 1328472,
+			"endMs": 1330824
 		},
 		{
 			"speaker": "narrator",
-			"text": "她沒有離開桂溪村。她在村口開了一家茶寮 — 就在當年她哥哥第一次給她米糕的那條溪邊。她做的桂花米糕,是十里八鄉最好的。",
-			"startMs": 820056,
-			"endMs": 832128
+			"text": "她後來沒有離開桂溪村。她在村口開了一家小小的茶寮 — 就在當年她哥哥第一次給她米糕的那條溪邊。她做的桂花米糕,是十里八鄉最好的。",
+			"startMs": 1330824,
+			"endMs": 1343688
 		},
 		{
 			"speaker": "narrator",
-			"text": "她活到了八十七歲。",
-			"startMs": 832128,
-			"endMs": 834648
+			"text": "村裡偶爾還會發生一些奇怪的事。一個常打孩子的父親,某天突然性情大變,變得溫柔。一個欺負寡母的不孝子,夜裡夢見一隻金狐,從此再不敢出門。一個外地來的騙子,剛進村就病倒了,病了三天三夜,病好以後再也沒回來。",
+			"startMs": 1343688,
+			"endMs": 1365024
 		},
 		{
 			"speaker": "narrator",
-			"text": "她從來沒有告訴任何人,她哥哥是什麼。她沒有結婚,也沒有收養子女。村裡人說她古怪,但都喜歡她做的糕。",
-			"startMs": 834648,
-			"endMs": 845448
+			"text": "村裡人都說,是「小蘭茶寮的福分」。",
+			"startMs": 1365024,
+			"endMs": 1368744
 		},
 		{
 			"speaker": "narrator",
-			"text": "每一年的冬至,她都會在門口放一碗溫過的米酒,和一塊新做的桂花米糕。風來,香就散。一直到她去世的那一年。",
-			"startMs": 845448,
-			"endMs": 857280
+			"text": "小蘭從來不解釋。她只是繼續做她的桂花米糕。",
+			"startMs": 1368744,
+			"endMs": 1374264
+		},
+		{
+			"speaker": "narrator",
+			"text": "她活到了八十七歲。沒有結婚,也沒有收養子女。她去世的那天晚上,村裡人傳,茶寮外面的桂花樹下,飄了一場不合時令的小雪。雪是金色的。落在地上就化了,留下淡淡的桂花香。",
+			"startMs": 1374264,
+			"endMs": 1392720
+		},
+		{
+			"speaker": "narrator",
+			"text": "她去世的時候,她的右手緊緊地握著一個小小的、淡黃色的香囊。香囊上面繡了一朵小小的桂花。",
+			"startMs": 1392720,
+			"endMs": 1403040
+		},
+		{
+			"speaker": "narrator",
+			"text": "那是她活了八十年,從來不曾打開過的、唯一的、哥哥留給她的東西。",
+			"startMs": 1403040,
+			"endMs": 1409640
 		}
 	]
 }
