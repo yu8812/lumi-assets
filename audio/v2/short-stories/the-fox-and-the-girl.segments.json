@@ -1,0 +1,294 @@
+{
+	"slug": "the-fox-and-the-girl",
+	"title": "狐妖與少女",
+	"language": "zh",
+	"cast": {
+		"narrator": "zh-CN-YunjianNeural",
+		"玄狐": "zh-CN-YunxiNeural",
+		"小蘭": "zh-CN-XiaoyiNeural",
+		"老道": "zh-CN-YunyangNeural",
+		"Sister Margaret": "en-GB-LibbyNeural"
+	},
+	"audio": "/audio/v2/short-stories/the-fox-and-the-girl.mp3",
+	"durationMs": 335928,
+	"segments": [
+		{
+			"speaker": "narrator",
+			"text": "那年深秋,小蘭只有七歲,母親剛去世,她蹲在村口溪邊洗著一條已經沒人要穿的舊衣裳。風很冷,她的手凍得發紫。",
+			"startMs": 0,
+			"endMs": 11832
+		},
+		{
+			"speaker": "narrator",
+			"text": "就在她以為自己也會這樣慢慢凍死的時候,身後傳來一個很輕、很溫的聲音。",
+			"startMs": 11832,
+			"endMs": 18936
+		},
+		{
+			"speaker": "玄狐",
+			"text": "小妹妹,你的手都紅了。",
+			"startMs": 18936,
+			"endMs": 22128,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "她回頭。一個白衣的年輕男子站在岸邊,袖口繡著淡淡的桂花紋。他笑起來的時候,眼角微微上揚,像狐狸。",
+			"startMs": 22128,
+			"endMs": 33624
+		},
+		{
+			"speaker": "小蘭",
+			"text": "你 — 你是誰?",
+			"startMs": 33624,
+			"endMs": 35232,
+			"emotion": "fearful"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "我是這附近的人。看你一個人在這裡,有點不放心。你家裡還有誰?",
+			"startMs": 35232,
+			"endMs": 41904,
+			"emotion": "friendly"
+		},
+		{
+			"speaker": "小蘭",
+			"text": "媽媽前幾天走了。爹爹去年就走了。",
+			"startMs": 41904,
+			"endMs": 46416,
+			"emotion": "sad"
+		},
+		{
+			"speaker": "narrator",
+			"text": "玄狐沉默了片刻,從袖子裡拿出一塊還溫熱的米糕,蹲下來遞給她。",
+			"startMs": 46416,
+			"endMs": 52968
+		},
+		{
+			"speaker": "玄狐",
+			"text": "先吃。吃完了,跟我走。我家在後山,有空房,有米。你若願意,就當我是哥哥。若不願意,我送你到鎮上的善堂。",
+			"startMs": 52968,
+			"endMs": 66192,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "小蘭",
+			"text": "為什麼 — 為什麼要對我這麼好?",
+			"startMs": 66192,
+			"endMs": 69672
+		},
+		{
+			"speaker": "玄狐",
+			"text": "因為你的手太冷了。哥哥看不下去。沒有別的原因。",
+			"startMs": 69672,
+			"endMs": 74856,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭跟著他走了。",
+			"startMs": 74856,
+			"endMs": 77376
+		},
+		{
+			"speaker": "narrator",
+			"text": "之後的十年,村裡人慢慢發現了一些奇怪的事。乾旱的年份,小蘭家後面那塊地總是長得最好。鄰居的牛病了,只要小蘭去摸一摸,第二天就好了。一個冬天,有夥強盜進了村,鬧到一半莫名其妙地迷路,在山裡轉了三天三夜,最後一個個哭著回頭。",
+			"startMs": 77376,
+			"endMs": 100920
+		},
+		{
+			"speaker": "narrator",
+			"text": "村裡人都說,那個帶大她的「哥哥」一定不是凡人。但她的「哥哥」從不主動見人,只在月圓的夜裡，會被人遠遠看見,獨自走在後山的桂花林裡。",
+			"startMs": 100920,
+			"endMs": 113928
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭十七歲那年,鎮上來了兩個外鄉人。一個是六十多歲的中國老道,身上披著舊袈裟,腰間佩著一根桃木劍。另一個是英國女人,穿黑色修女服,腰間掛著一個十字架,手裡卻拿著一卷古文。",
+			"startMs": 113928,
+			"endMs": 132024
+		},
+		{
+			"speaker": "narrator",
+			"text": "他們在鎮口的茶寮坐了一整個下午。老道把茶喝完,終於開口。",
+			"startMs": 132024,
+			"endMs": 138672
+		},
+		{
+			"speaker": "老道",
+			"text": "Sister Margaret,你說的不錯。這裡確實有「東西」。但我看了三天,他沒害過人。",
+			"startMs": 138672,
+			"endMs": 146160,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Sister Margaret",
+			"text": "Master Wu, I have heard this argument many times. A creature does not need to harm in order to be a threat. He bends the natural order. The villagers no longer pray for rain — they wait for the girl to walk past the field.",
+			"startMs": 146160,
+			"endMs": 163824,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "老道",
+			"text": "是。我也想過這個問題。",
+			"startMs": 163824,
+			"endMs": 167040,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "老道",
+			"text": "但你要曉得,Sister,this kind of 狐,他活了八百年,從沒收過一個徒弟,從沒害過一個人。He took in an orphan. 養大她。換作我,我也會難下手。",
+			"startMs": 167040,
+			"endMs": 180192,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Sister Margaret",
+			"text": "I know, Master Wu. I knew before I left London. That is why I did not want to come alone.",
+			"startMs": 180192,
+			"endMs": 189696,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他們在第二天傍晚找到了玄狐。",
+			"startMs": 189696,
+			"endMs": 193176
+		},
+		{
+			"speaker": "narrator",
+			"text": "玄狐當時正蹲在溪邊,替一隻翅膀斷了的麻雀正骨。他抬頭看見兩人,沒有逃。他只是站起來,把麻雀放回草叢裡。",
+			"startMs": 193176,
+			"endMs": 205032
+		},
+		{
+			"speaker": "玄狐",
+			"text": "你們來了。",
+			"startMs": 205032,
+			"endMs": 206880,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "老道",
+			"text": "你早知道?",
+			"startMs": 206880,
+			"endMs": 208368,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "昨天就感覺到了。我沒走。",
+			"startMs": 208368,
+			"endMs": 211968,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Sister Margaret",
+			"text": "Why did you not run?",
+			"startMs": 211968,
+			"endMs": 214296,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "因為跑了,你們就會去找她。",
+			"startMs": 214296,
+			"endMs": 217416
+		},
+		{
+			"speaker": "narrator",
+			"text": "他看了一眼小蘭家的方向。",
+			"startMs": 217416,
+			"endMs": 220368
+		},
+		{
+			"speaker": "玄狐",
+			"text": "她不知道我是什麼。她以為我是她的哥哥。如果你們在這裡了結,她最多只是失去一個哥哥。她不會知道發生了什麼。",
+			"startMs": 220368,
+			"endMs": 231168
+		},
+		{
+			"speaker": "老道",
+			"text": "你還有什麼話?",
+			"startMs": 231168,
+			"endMs": 232896,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "玄狐",
+			"text": "請告訴她,我去南方了。生意忙,可能很久不回。請告訴她,不要等。",
+			"startMs": 232896,
+			"endMs": 240888,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "他閉上眼睛,微微一笑。",
+			"startMs": 240888,
+			"endMs": 243984
+		},
+		{
+			"speaker": "玄狐",
+			"text": "還有 — 後山桂花林,西北角第三棵樹下,有一個小匣子,是她娘留給她的玉鐲。我這些年一直存著,沒給她,怕她小的時候弄丟。請替我交給她。",
+			"startMs": 243984,
+			"endMs": 258024,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Sister Margaret",
+			"text": "We will.",
+			"startMs": 258024,
+			"endMs": 259920,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "老道從腰間抽出桃木劍。Sister Margaret 翻開古文,低聲念誦拉丁文。兩種完全不同的咒語在溪邊同時響起。玄狐沒有反抗。",
+			"startMs": 259920,
+			"endMs": 272832
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭那天晚上做了一個夢。她夢見她哥哥站在桂花林裡,笑著對她揮手,然後越走越遠,變成了一道很淡很淡的金光,消失在山的後面。",
+			"startMs": 272832,
+			"endMs": 285888
+		},
+		{
+			"speaker": "narrator",
+			"text": "她醒來時,枕頭濕了。",
+			"startMs": 285888,
+			"endMs": 288840
+		},
+		{
+			"speaker": "narrator",
+			"text": "門口有人敲門。是那個外國女人。她遞給小蘭一個小匣子,然後用很慢、很重的中文說了一句話。",
+			"startMs": 288840,
+			"endMs": 299184
+		},
+		{
+			"speaker": "Sister Margaret",
+			"text": "He is gone. Your brother. He told us — to ask you — not to wait.",
+			"startMs": 299184,
+			"endMs": 307128,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "匣子裡是她娘留給她的玉鐲。她從未見過。",
+			"startMs": 307128,
+			"endMs": 312384
+		},
+		{
+			"speaker": "narrator",
+			"text": "小蘭後來活到了八十七歲。她開了一家小小的茶寮,在村口,就在當年玄狐第一次給她米糕的那條溪邊。她從來沒有告訴任何人,她哥哥的真相。",
+			"startMs": 312384,
+			"endMs": 326016
+		},
+		{
+			"speaker": "narrator",
+			"text": "但每一年的冬至,她都會在門口放一碗溫過的米酒,和一塊新做的桂花米糕。一直到她去世的那一年。",
+			"startMs": 326016,
+			"endMs": 335928
+		}
+	]
+}
