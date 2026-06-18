@@ -1,0 +1,856 @@
+{
+	"slug": "the-last-keeper",
+	"title": "The Last Keeper",
+	"language": "en",
+	"cast": {
+		"narrator": "en-US-AndrewMultilingualNeural",
+		"Eleanor": "en-US-AvaMultilingualNeural",
+		"Sarah": "en-US-JennyNeural",
+		"Jacob": "en-US-BrianMultilingualNeural",
+		"Coast Guard": "en-US-GuyNeural",
+		"Thaddeus": "en-GB-RyanNeural"
+	},
+	"audio": "/audio/v2/short-stories/the-last-keeper.mp3",
+	"durationMs": 796080,
+	"segments": [
+		{
+			"speaker": "narrator",
+			"text": "The morning of October the twenty-third, nineteen eighty-five, broke clear and cold over the Maine coast. The first hard frost of the year clung to the rails of the old lighthouse at Marsh Point. Inside, in the keeper's room, the wireless set crackled at twenty past six.",
+			"startMs": 0,
+			"endMs": 17232
+		},
+		{
+			"speaker": "Sarah",
+			"text": "Marsh Point, Marsh Point, this is Hawthorne. Eleanor, are you up there, over?",
+			"startMs": 17232,
+			"endMs": 23400,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "I'm here, Sarah. Coffee's on. I was waiting for you.",
+			"startMs": 23400,
+			"endMs": 27936,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Sarah",
+			"text": "Good morning, Gran. How's the air this morning?",
+			"startMs": 27936,
+			"endMs": 32448,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Cold. Clear. The water's flat as a pewter plate. You'd love it.",
+			"startMs": 32448,
+			"endMs": 37512,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Sarah",
+			"text": "I always do. Listen — the bureau's pushing the front in earlier than they said. They've moved the storm to twenty-two hundred your time. That's eight hours sooner than the call last night.",
+			"startMs": 37512,
+			"endMs": 50520,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "... I felt it would be. The gulls were quiet this morning.",
+			"startMs": 50520,
+			"endMs": 54480,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Sarah",
+			"text": "I knew you'd say that.",
+			"startMs": 54480,
+			"endMs": 56664,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "narrator",
+			"text": "There was a pause across the line. Sarah was thirty-two, working out of the Woods Hole Oceanographic Institution. She had spent every summer of her childhood at this lighthouse. She had learned to read the sea from her grandmother before she had learned to read books.",
+			"startMs": 56664,
+			"endMs": 72072
+		},
+		{
+			"speaker": "Sarah",
+			"text": "Gran. About this afternoon —",
+			"startMs": 72072,
+			"endMs": 75984,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "I know, dear. The ensign comes at fourteen hundred. They told me yesterday.",
+			"startMs": 75984,
+			"endMs": 81384,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Sarah",
+			"text": "I should be there. I should have come up last week.",
+			"startMs": 81384,
+			"endMs": 86208,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "You should be where you are. It's only a lamp, Sarah. A lamp and a chair and a kettle.",
+			"startMs": 86208,
+			"endMs": 92568,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Sarah",
+			"text": "It's seventy-six years.",
+			"startMs": 92568,
+			"endMs": 95328,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Seventy-six years of one lamp, one chair, and one kettle. The boat will come at fourteen hundred and a young man will sign a piece of paper and the lamp will become a relay. You can drive up next weekend and take me to the diner in Camden and we will sit there and eat a piece of pie and that will be the end of it.",
+			"startMs": 95328,
+			"endMs": 114720,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Sarah",
+			"text": "I love you, Gran.",
+			"startMs": 114720,
+			"endMs": 117096,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "I love you too. Stay on the channel today, will you? I'd like to know the storm tracks the way the bureau says.",
+			"startMs": 117096,
+			"endMs": 123864,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Sarah",
+			"text": "I will. Marsh Point standing by. Hawthorne out.",
+			"startMs": 123864,
+			"endMs": 129720,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "The wireless went silent. Eleanor sat for a long moment with her hand still on the talk button. Then she stood up, slowly, and walked to the south window.",
+			"startMs": 129720,
+			"endMs": 139440
+		},
+		{
+			"speaker": "narrator",
+			"text": "The morning sun had risen far enough to silver the edge of every wave. The horizon was clean. But the air had that particular taste — copper and salt and something else, something underneath — that the keepers of this point had learned to recognise across four generations.",
+			"startMs": 139440,
+			"endMs": 156576
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Grandfather, you'd say it'll come at sixteen hundred. Won't you.",
+			"startMs": 156576,
+			"endMs": 162024,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "narrator",
+			"text": "She said it to no one in particular. Or so it seemed.",
+			"startMs": 162024,
+			"endMs": 165240
+		},
+		{
+			"speaker": "narrator",
+			"text": "The ensign's truck rolled up to the gate at thirteen fifty-three. Eleanor watched from the window as the young man climbed out, brushed off his coat, checked the time on his wristwatch, and adjusted his cap. He stood for a moment looking up at the tower. Then he walked to the door.",
+			"startMs": 165240,
+			"endMs": 180936
+		},
+		{
+			"speaker": "narrator",
+			"text": "She opened it before he knocked.",
+			"startMs": 180936,
+			"endMs": 182928
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "You're seven minutes early, Ensign.",
+			"startMs": 182928,
+			"endMs": 185232,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "I'm — yes, ma'am. I — I wanted to make sure I wasn't late.",
+			"startMs": 185232,
+			"endMs": 189000,
+			"emotion": "nervous"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "You wouldn't have been late if you came in next Wednesday. Come in. The coffee's on.",
+			"startMs": 189000,
+			"endMs": 193584,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "Thank you, ma'am.",
+			"startMs": 193584,
+			"endMs": 194904,
+			"emotion": "friendly"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Eleanor. Or Mrs Marsh. Either will do. Ma'am makes me feel ninety.",
+			"startMs": 194904,
+			"endMs": 200784,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... Mrs Marsh. Thank you.",
+			"startMs": 200784,
+			"endMs": 203184,
+			"emotion": "friendly"
+		},
+		{
+			"speaker": "narrator",
+			"text": "He stepped inside. Jacob Cole, twenty-six years old, third in his class at the academy, two years in the Boston harbour, and now — to his bewilderment and quiet excitement — assigned the honour of retiring the last manual lighthouse keeper on the New England coast.",
+			"startMs": 203184,
+			"endMs": 219720
+		},
+		{
+			"speaker": "narrator",
+			"text": "He stood in the centre of the keeper's room and looked around. A black iron stove. A kettle. A bookshelf of marine almanacs. A logbook open on the desk, today's date already written at the top in fountain pen. A single chair by the south window, worn into the shape of one person.",
+			"startMs": 219720,
+			"endMs": 237624
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... it's very nearly the way I imagined it.",
+			"startMs": 237624,
+			"endMs": 240336,
+			"emotion": "nostalgic"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Most people imagine it grander. They picture a kind of ocean cathedral. But it's mostly a kettle and a chair and a logbook. The lamp does its own work.",
+			"startMs": 240336,
+			"endMs": 249552,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "The boat at fifteen hundred — they're delivering the relay unit.",
+			"startMs": 249552,
+			"endMs": 253176,
+			"emotion": "friendly"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "I know. There's a storm coming sooner than they said. Sit. Have your coffee first.",
+			"startMs": 253176,
+			"endMs": 259800,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "He sat. She poured him a cup.",
+			"startMs": 259800,
+			"endMs": 262008
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "My grandfather built this stove. Eighteen ninety-nine. He carried the iron up the cliff in sections on his back. He said he wanted to be sure that whoever sat in the chair after him would always have warmth.",
+			"startMs": 262008,
+			"endMs": 274896,
+			"emotion": "nostalgic"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... Mrs Marsh, may I ask — how long have you been here?",
+			"startMs": 274896,
+			"endMs": 278712,
+			"emotion": "nostalgic"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Since nineteen forty-six. Forty years next month. My father had it before me, my grandfather before him.",
+			"startMs": 278712,
+			"endMs": 286680,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "Three generations.",
+			"startMs": 286680,
+			"endMs": 288384,
+			"emotion": "proud"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Four, in a sense. I had a son. He went to sea instead. He doesn't come up much. He didn't want the job.",
+			"startMs": 288384,
+			"endMs": 295872,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "There was no bitterness in her voice. Only a kind of patient acceptance, as though she were reading a weather report.",
+			"startMs": 295872,
+			"endMs": 302520
+		},
+		{
+			"speaker": "Jacob",
+			"text": "I'm sorry.",
+			"startMs": 302520,
+			"endMs": 303840,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "For what? He has his own life. That's what we built the lamp for. So men out there could have their own lives.",
+			"startMs": 303840,
+			"endMs": 311184,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "The wind had begun to shift. The kettle made a small whistle that was the kettle's own, and another, distantly, that was not.",
+			"startMs": 311184,
+			"endMs": 319176
+		},
+		{
+			"speaker": "narrator",
+			"text": "At sixteen hundred and twelve, the front came in.",
+			"startMs": 319176,
+			"endMs": 322104
+		},
+		{
+			"speaker": "narrator",
+			"text": "The bureau had said twenty-two hundred. They were six hours wrong. The wireless went to static. The power blinked once and stayed off. The first hard rain hit the south window like a handful of nails.",
+			"startMs": 322104,
+			"endMs": 335112
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Ensign. Move the chair. The lamp is mechanical from here. You're about to learn how the old lamp works.",
+			"startMs": 335112,
+			"endMs": 342432,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "Mrs Marsh — should I call the boat?",
+			"startMs": 342432,
+			"endMs": 345000,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "The boat won't come in this. They turned back forty minutes ago, whether they've told us or not. Light the lamp.",
+			"startMs": 345000,
+			"endMs": 352344,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "Light it — light it how?",
+			"startMs": 352344,
+			"endMs": 354480,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "With a match, Ensign. Like the rest of us.",
+			"startMs": 354480,
+			"endMs": 358104,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "She walked up the spiral stairs. He followed. At the top, the great lens room. The brass mechanism. The wick. The oil. The match.",
+			"startMs": 358104,
+			"endMs": 367656
+		},
+		{
+			"speaker": "narrator",
+			"text": "Two strikes. The flame caught. The lens picked it up. Sixteen seconds later, the beam swept north-east across the rain-blackened water for the first time in many years by human hand.",
+			"startMs": 367656,
+			"endMs": 380040
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... I've read about this.",
+			"startMs": 380040,
+			"endMs": 381744,
+			"emotion": "proud"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Now you've done it.",
+			"startMs": 381744,
+			"endMs": 383064,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "They stood for a moment in the lens room, the rain hammering. Then Eleanor put her hand on the brass rail and looked through the south-facing window. Her face changed — only a little, but it changed.",
+			"startMs": 383064,
+			"endMs": 395136
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Hello, Grandfather.",
+			"startMs": 395136,
+			"endMs": 396840,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "Jacob followed her gaze. There was no one there. Only the rain on the empty walkway.",
+			"startMs": 396840,
+			"endMs": 402144
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... Mrs Marsh?",
+			"startMs": 402144,
+			"endMs": 403656,
+			"emotion": "nervous"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "He always comes when the weather turns bad.",
+			"startMs": 403656,
+			"endMs": 406272,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Thaddeus",
+			"text": "You look well, Ellie.",
+			"startMs": 406272,
+			"endMs": 408576,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "You haven't said that to me since nineteen seventy-two.",
+			"startMs": 408576,
+			"endMs": 411960,
+			"emotion": "cheerful"
+		},
+		{
+			"speaker": "Thaddeus",
+			"text": "There's a vessel taking water. South-south-west. Eight nautical miles. She's lost her engines. The current's pulling her towards Cragg's Reef.",
+			"startMs": 411960,
+			"endMs": 425616,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Eight miles. How fast?",
+			"startMs": 425616,
+			"endMs": 428232,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Thaddeus",
+			"text": "She'll be on the rocks in ninety minutes if no one finds her.",
+			"startMs": 428232,
+			"endMs": 432552,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "Mrs — Mrs Marsh, who are you talking to?",
+			"startMs": 432552,
+			"endMs": 436248,
+			"emotion": "nervous"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "My grandfather, Ensign. Captain Thaddeus Marsh. He died on the walkway out there in nineteen oh-seven. In a storm not unlike this one.",
+			"startMs": 436248,
+			"endMs": 446496,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... I don't —",
+			"startMs": 446496,
+			"endMs": 447504,
+			"emotion": "fearful"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "You don't see him. I know. Most people don't.",
+			"startMs": 447504,
+			"endMs": 451272,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "She walked back down the stairs without further explanation. Jacob followed. At the wireless, she powered the emergency battery. Static. She turned the dial.",
+			"startMs": 451272,
+			"endMs": 461328
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Marsh Point calling Coast Guard, Coast Guard, vessel in distress, vessel in distress.",
+			"startMs": 461328,
+			"endMs": 466224,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Position south-south-west of Marsh Point, eight nautical miles. Drifting north-east on the current. Engine failure. Heading for Cragg's Reef. Repeat: heading for Cragg's Reef.",
+			"startMs": 466224,
+			"endMs": 477144,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "narrator",
+			"text": "There was a crackle, then a young man's voice on the channel.",
+			"startMs": 477144,
+			"endMs": 480600
+		},
+		{
+			"speaker": "Coast Guard",
+			"text": "Marsh Point, this is Cutter Whitfield. We have no signal from any vessel in that quadrant. How do you have the position, over?",
+			"startMs": 480600,
+			"endMs": 489072,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "I have the position. They're not transmitting. Their radio is gone. Cutter Whitfield, you will find her exactly where I told you. Over.",
+			"startMs": 489072,
+			"endMs": 498864,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "Coast Guard",
+			"text": "... copy, Marsh Point. Proceeding to position. Out.",
+			"startMs": 498864,
+			"endMs": 505056,
+			"emotion": "serious"
+		},
+		{
+			"speaker": "narrator",
+			"text": "Eleanor sat back in the chair. Jacob stood near the window, looking out at the rain-blackened ocean. He could see nothing. Only the lens beam, sweeping across the night.",
+			"startMs": 505056,
+			"endMs": 515784
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... Mrs Marsh.",
+			"startMs": 515784,
+			"endMs": 517200,
+			"emotion": "fearful"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Yes.",
+			"startMs": 517200,
+			"endMs": 518232,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "How did you know.",
+			"startMs": 518232,
+			"endMs": 519432,
+			"emotion": "fearful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "She did not answer immediately. She watched the lens beam complete one full rotation. Then she spoke.",
+			"startMs": 519432,
+			"endMs": 526824
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Ensign. The lamp is mechanical. The wireless is wireless. But the keeper has always been — the keeper. You stand at this window for forty years. You learn to listen. Sometimes the dead help you.",
+			"startMs": 526824,
+			"endMs": 540960,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "Forty-seven minutes later, Cutter Whitfield raised them on the channel.",
+			"startMs": 540960,
+			"endMs": 545448
+		},
+		{
+			"speaker": "Coast Guard",
+			"text": "Marsh Point, Marsh Point. We have visual on a fishing vessel adrift. Three souls aboard. No engines, no radio, exactly where you said. Beginning rescue operation. Out.",
+			"startMs": 545448,
+			"endMs": 559488,
+			"emotion": "urgent"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... thank God.",
+			"startMs": 559488,
+			"endMs": 560640,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "He sat down. Eleanor poured him another cup of coffee. The rain had begun to slacken.",
+			"startMs": 560640,
+			"endMs": 566376
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Drink it while it's hot, Ensign. The storm's almost done.",
+			"startMs": 566376,
+			"endMs": 570672,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "Mrs Marsh — your grandfather.",
+			"startMs": 570672,
+			"endMs": 573216,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Yes.",
+			"startMs": 573216,
+			"endMs": 574200,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "He died here.",
+			"startMs": 574200,
+			"endMs": 575520,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "In nineteen oh-seven. There were four boats lost that night. He kept the lamp burning past midnight by hand, with the wick guttering, in a wind that took the slate off the roof. The next morning they found him on the walkway. The lamp was still lit. They said his heart had given out.",
+			"startMs": 575520,
+			"endMs": 593472,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... I'm so sorry.",
+			"startMs": 593472,
+			"endMs": 595104,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "He's never left. Not really. There's always been someone in the chair, and where there's a keeper there's a grandfather.",
+			"startMs": 595104,
+			"endMs": 602544,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... is that why you took the job?",
+			"startMs": 602544,
+			"endMs": 604560,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "No, Ensign. I took the job because someone had to. The grandfather came with it.",
+			"startMs": 604560,
+			"endMs": 610944,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "The rain stopped at thirty-six minutes past four in the morning. The wind dropped. The first thin band of grey appeared on the eastern horizon.",
+			"startMs": 610944,
+			"endMs": 619344
+		},
+		{
+			"speaker": "narrator",
+			"text": "Eleanor walked up the stairs one more time. Jacob followed. At the top, she turned out the wick. The lens room dimmed. The brass cooled.",
+			"startMs": 619344,
+			"endMs": 628200
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Ensign. The relay arrives at fourteen hundred. You will sit through the day and the installation. Tomorrow at sunrise the automated light will come on. You will not need a match. The lamp will turn itself.",
+			"startMs": 628200,
+			"endMs": 641640,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... yes, ma'am.",
+			"startMs": 641640,
+			"endMs": 642984,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "But the keeper. The keeper has always been the one who watches the sea. The lamp is automated. The keeper, Ensign, is the one with the wireless and the chair. The keeper is still needed.",
+			"startMs": 642984,
+			"endMs": 654960,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "I understand.",
+			"startMs": 654960,
+			"endMs": 656304,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Good.",
+			"startMs": 656304,
+			"endMs": 657024,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "narrator",
+			"text": "She turned and walked back down to the keeper's room. She sat in the chair by the south window. The sun had not yet risen. Her hands rested on the arms of the chair. She closed her eyes for a moment.",
+			"startMs": 657024,
+			"endMs": 668856
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "Hello, Grandfather.",
+			"startMs": 668856,
+			"endMs": 670560,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Thaddeus",
+			"text": "Hello, Ellie. It's a good morning.",
+			"startMs": 670560,
+			"endMs": 674496,
+			"emotion": "warm"
+		},
+		{
+			"speaker": "Eleanor",
+			"text": "It is.",
+			"startMs": 674496,
+			"endMs": 675528,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "The sun crested the horizon at six-eleven. The room filled with a soft, even, gold-pink light. Eleanor Marsh did not open her eyes.",
+			"startMs": 675528,
+			"endMs": 684912
+		},
+		{
+			"speaker": "narrator",
+			"text": "Jacob found her at six-twenty. She was sitting in the chair, facing south, her hands in her lap, her face perfectly calm. He stood in the doorway for a long moment. Then he walked to the wireless and powered it on.",
+			"startMs": 684912,
+			"endMs": 698400
+		},
+		{
+			"speaker": "Jacob",
+			"text": "Hawthorne, Hawthorne, this is Marsh Point. Sarah, are you there. Over.",
+			"startMs": 698400,
+			"endMs": 703968,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "There was a pause. Then a young woman's voice came through, soft, already half-knowing.",
+			"startMs": 703968,
+			"endMs": 709728
+		},
+		{
+			"speaker": "Sarah",
+			"text": "Marsh Point — Jacob — what is it.",
+			"startMs": 709728,
+			"endMs": 712800,
+			"emotion": "fearful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "Sarah. It's — your grandmother.",
+			"startMs": 712800,
+			"endMs": 715608,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "He could not say the next word.",
+			"startMs": 715608,
+			"endMs": 717240
+		},
+		{
+			"speaker": "Sarah",
+			"text": "... when.",
+			"startMs": 717240,
+			"endMs": 718872,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "A few minutes ago. She was — she was watching the sunrise.",
+			"startMs": 718872,
+			"endMs": 723696,
+			"emotion": "sorrowful"
+		},
+		{
+			"speaker": "narrator",
+			"text": "The wireless crackled. Sarah did not cry. He could hear, faintly, that she was holding her breath. Then she let it out.",
+			"startMs": 723696,
+			"endMs": 731592
+		},
+		{
+			"speaker": "Sarah",
+			"text": "... thank you, Jacob.",
+			"startMs": 731592,
+			"endMs": 733800,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Sarah",
+			"text": "Tell her grandfather thank you, as well.",
+			"startMs": 733800,
+			"endMs": 736992,
+			"emotion": "peaceful"
+		},
+		{
+			"speaker": "Jacob",
+			"text": "... I will.",
+			"startMs": 736992,
+			"endMs": 738240,
+			"emotion": "somber"
+		},
+		{
+			"speaker": "narrator",
+			"text": "The relay unit arrived at fourteen hundred that afternoon. Jacob signed the paperwork. He oversaw the installation. He stood with the engineers in the lens room and watched the automated mechanism come to life at sunset. The lamp turned. The beam swept across the water.",
+			"startMs": 738240,
+			"endMs": 755520
+		},
+		{
+			"speaker": "narrator",
+			"text": "He did not leave. He sat in the chair by the south window for the rest of his rotation. The lamp turned itself. He watched the sea. The wireless was on. Once, in March of the following spring, he saw an old man in a Cornish fisherman's coat standing on the walkway, looking out at the morning fog. He raised his hand in salute. The old man smiled. By the time Jacob blinked, he was gone.",
+			"startMs": 755520,
+			"endMs": 778416
+		},
+		{
+			"speaker": "narrator",
+			"text": "Jacob Cole served at Marsh Point for thirty-one years. He retired in two thousand and sixteen, at the age of fifty-seven, the longest serving keeper in the history of the post. The lamp had been automated for all those years.",
+			"startMs": 778416,
+			"endMs": 792552
+		},
+		{
+			"speaker": "narrator",
+			"text": "But the keeper, the keeper was the one who watched the sea.",
+			"startMs": 792552,
+			"endMs": 796080
+		}
+	]
+}
