@@ -3,6 +3,17 @@
 Static media for the [Lumi TOEIC platform](https://github.com/yu8812/lumi).
 Served globally via [jsDelivr](https://www.jsdelivr.com/) CDN.
 
+## License / usage
+
+**Copyright (c) Lumi. All rights reserved.**
+
+This repository is public **only** because jsDelivr requires a public
+GitHub repo to serve files. Public visibility is not a license grant:
+the audio recordings, images, and audiobook media here are original
+works created for the Lumi platform. You may not copy, redistribute,
+rehost, or use them in another product or dataset without written
+permission. Hotlinking outside the Lumi app is not permitted.
+
 ## Why a separate repo?
 
 The main `lumi` repo holds only code so clones stay fast. Audio files (~16K
